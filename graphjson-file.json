@@ -1,0 +1,348 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1671
+{\fonttbl\f0\fnil\fcharset0 Monaco;}
+{\colortbl;\red255\green255\blue255;\red0\green128\blue0;}
+{\*\expandedcolortbl;;\csgenericrgb\c0\c50196\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww33400\viewh20500\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs22 \cf0  \ul [\ulnone \{\cf2 "id"\cf0 :1,\cf2 "name"\cf0 :\cf2 "Customer Experience Index"\cf0 \},\
+\{\cf2 "id"\cf0 :2,\cf2 "name"\cf0 :\cf2 "Service Index"\cf0 ,\cf2 "parent"\cf0 :1\},\
+\{\cf2 "id"\cf0 :3,\cf2 "name"\cf0 :\cf2 "Provisioning Index"\cf0 ,\cf2 "parent"\cf0 :1\},\
+\{\cf2 "id"\cf0 :4,\cf2 "name"\cf0 :\cf2 "Activation Index"\cf0 ,\cf2 "parent"\cf0 :1\},\
+\{\cf2 "id"\cf0 :5,\cf2 "name"\cf0 :\cf2 "Network Index"\cf0 ,\cf2 "parent"\cf0 :1\},\
+\{\cf2 "id"\cf0 :6,\cf2 "name"\cf0 :\cf2 "My Ufone APP Index"\cf0 ,\cf2 "parent"\cf0 :1\},\
+\{\cf2 "id"\cf0 :7,\cf2 "name"\cf0 :\cf2 "SMS Index"\cf0 ,\cf2 "parent"\cf0 :2\},\
+\{\cf2 "id"\cf0 :8,\cf2 "name"\cf0 :\cf2 "Recharge Index"\cf0 ,\cf2 "parent"\cf0 :2\},\
+\{\cf2 "id"\cf0 :9,\cf2 "name"\cf0 :\cf2 "Data Index"\cf0 ,\cf2 "parent"\cf0 :2\},\
+\{\cf2 "id"\cf0 :10,\cf2 "name"\cf0 :\cf2 "HLR Index"\cf0 ,\cf2 "parent"\cf0 :3\},\
+\{\cf2 "id"\cf0 :11,\cf2 "name"\cf0 :\cf2 "CBS Index"\cf0 ,\cf2 "parent"\cf0 :3\},\
+\{\cf2 "id"\cf0 :12,\cf2 "name"\cf0 :\cf2 "Roam  Index"\cf0 ,\cf2 "parent"\cf0 :3\},\
+\{\cf2 "id"\cf0 :13,\cf2 "name"\cf0 :\cf2 "product  Index"\cf0 ,\cf2 "parent"\cf0 :3\},\
+\{\cf2 "id"\cf0 :14,\cf2 "name"\cf0 :\cf2 "Sale Index"\cf0 ,\cf2 "parent"\cf0 :4\},\
+\{\cf2 "id"\cf0 :15,\cf2 "name"\cf0 :\cf2 "Nadra Index"\cf0 ,\cf2 "parent"\cf0 :4\},\
+\{\cf2 "id"\cf0 :16,\cf2 "name"\cf0 :\cf2 "SIM Replacement/Ownership Change Index"\cf0 ,\cf2 "parent"\cf0 :4\},\
+\{\cf2 "id"\cf0 :17,\cf2 "name"\cf0 :\cf2 "2G Index"\cf0 ,\cf2 "parent"\cf0 :5\},\
+\{\cf2 "id"\cf0 :18,\cf2 "name"\cf0 :\cf2 "3G Index"\cf0 ,\cf2 "parent"\cf0 :5\},\
+\{\cf2 "id"\cf0 :19,\cf2 "name"\cf0 :\cf2 "Core  Index"\cf0 ,\cf2 "parent"\cf0 :5\},\
+\{\cf2 "id"\cf0 :21,\cf2 "name"\cf0 :\cf2 "Change of ownership success Ratio"\cf0 ,\cf2 "parent"\cf0 :16\},\
+\{\cf2 "id"\cf0 :22,\cf2 "name"\cf0 :\cf2 "Nadra Activity Success Ratio"\cf0 ,\cf2 "parent"\cf0 :15\},\
+\{\cf2 "id"\cf0 :23,\cf2 "name"\cf0 :\cf2 "New sale success Ratio"\cf0 ,\cf2 "parent"\cf0 :14\},\
+\{\cf2 "id"\cf0 :24,\cf2 "name"\cf0 :\cf2 "Post to Pre Migratation Success Ratio"\cf0 ,\cf2 "parent"\cf0 :14\},\
+\{\cf2 "id"\cf0 :25,\cf2 "name"\cf0 :\cf2 "Pre MNP Success Ratio"\cf0 ,\cf2 "parent"\cf0 :14\},\
+\{\cf2 "id"\cf0 :26,\cf2 "name"\cf0 :\cf2 "Pre to Post Migratation Success Ratio"\cf0 ,\cf2 "parent"\cf0 :14\},\
+\{\cf2 "id"\cf0 :27,\cf2 "name"\cf0 :\cf2 "Sim Replacement Success Ratio"\cf0 ,\cf2 "parent"\cf0 :16\},\
+\{\cf2 "id"\cf0 :28,\cf2 "name"\cf0 :\cf2 "All Activities Success ratio"\cf0 ,\cf2 "parent"\cf0 :14\},\
+\{\cf2 "id"\cf0 :30,\cf2 "name"\cf0 :\cf2 "IR Provisioning Success ratio"\cf0 ,\cf2 "parent"\cf0 :12\},\
+\{\cf2 "id"\cf0 :31,\cf2 "name"\cf0 :\cf2 "SMS Bucket Subscription Activation Ratio"\cf0 ,\cf2 "parent"\cf0 :13\},\
+\{\cf2 "id"\cf0 :34,\cf2 "name"\cf0 :\cf2 "Encrypted\'a0SMS\'a0Success\'a0Ratio"\cf0 ,\cf2 "parent"\cf0 :8\},\
+\{\cf2 "id"\cf0 :35,\cf2 "name"\cf0 :\cf2 "Normal SMS Success\'a0Ratio"\cf0 ,\cf2 "parent"\cf0 :8\},\
+\{\cf2 "id"\cf0 :36,\cf2 "name"\cf0 :\cf2 "EVC Recharge Success Ratio "\cf0 ,\cf2 "parent"\cf0 :8\},\
+\{\cf2 "id"\cf0 :37,\cf2 "name"\cf0 :\cf2 "USSD\'a0Success\'a0Ratio"\cf0 ,\cf2 "parent"\cf0 :8\},\
+\{\cf2 "id"\cf0 :38,\cf2 "name"\cf0 :\cf2 "Recharging through USSD\'a0 Success Ratio"\cf0 ,\cf2 "parent"\cf0 :8\},\
+\{\cf2 "id"\cf0 :39,\cf2 "name"\cf0 :\cf2 "Inbound Back Success Ratio"\cf0 ,\cf2 "parent"\cf0 :12\},\
+\{\cf2 "id"\cf0 :40,\cf2 "name"\cf0 :\cf2 "Inbound Captured Success Ratio"\cf0 ,\cf2 "parent"\cf0 :12\},\
+\{\cf2 "id"\cf0 :41,\cf2 "name"\cf0 :\cf2 "Inbound Lost Success ratio"\cf0 ,\cf2 "parent"\cf0 :12\},\
+\{\cf2 "id"\cf0 :42,\cf2 "name"\cf0 :\cf2 "Outbound Change Country Success Ratio"\cf0 ,\cf2 "parent"\cf0 :12\},\
+\{\cf2 "id"\cf0 :43,\cf2 "name"\cf0 :\cf2 "Post MNP  - BTS Sucesss Ratio"\cf0 ,\cf2 "parent"\cf0 :14\},\
+\{\cf2 "id"\cf0 :44,\cf2 "name"\cf0 :\cf2 "Post MNP  - HLR Sucesss Ratio"\cf0 ,\cf2 "parent"\cf0 :14\},\
+\{\cf2 "id"\cf0 :45,\cf2 "name"\cf0 :\cf2 "Activities through my ufone app Success Ratio"\cf0 ,\cf2 "parent"\cf0 :6\},\
+\{\cf2 "id"\cf0 :46,\cf2 "name"\cf0 :\cf2 "Bundle Subscription via My Ufone App Success Ratio"\cf0 ,\cf2 "parent"\cf0 :6\},\
+\{\cf2 "id"\cf0 :47,\cf2 "name"\cf0 :\cf2 "Recharge via My Ufone App Success Ratio"\cf0 ,\cf2 "parent"\cf0 :6\},\
+\{\cf2 "id"\cf0 :48,\cf2 "name"\cf0 :\cf2 "VAS Subscription My Ufone App Success Ratio"\cf0 ,\cf2 "parent"\cf0 :6\},\
+\{\cf2 "id"\cf0 :49,\cf2 "name"\cf0 :\cf2 "Super Card\'a0 - Recharge Success Ratios"\cf0 ,\cf2 "parent"\cf0 :8\},\
+\{\cf2 "id"\cf0 :50,\cf2 "name"\cf0 :\cf2 "Super Card - Recharge -\'a0 System driven Ratio"\cf0 ,\cf2 "parent"\cf0 :8\},\
+\{\cf2 "id"\cf0 :51,\cf2 "name"\cf0 :\cf2 "Super Card - Recharge\'a0\'a0 User driven Ratio"\cf0 ,\cf2 "parent"\cf0 :8\},\
+\{\cf2 "id"\cf0 :52,\cf2 "name"\cf0 :\cf2 "SMS Bucket Subscription Renewal Ratio"\cf0 ,\cf2 "parent"\cf0 :13\},\
+\{\cf2 "id"\cf0 :58,\cf2 "name"\cf0 :\cf2 "Video_Streaming_Play_Delay_ms threshold"\cf0 ,\cf2 "parent"\cf0 :9\},\
+\{\cf2 "id"\cf0 :59,\cf2 "name"\cf0 :\cf2 "Video_Streaming_Stall_Frequency threshold"\cf0 ,\cf2 "parent"\cf0 :9\},\
+\{\cf2 "id"\cf0 :60,\cf2 "name"\cf0 :\cf2 "Video_Streaming_Throughput_kbps threshold"\cf0 ,\cf2 "parent"\cf0 :9\},\
+\{\cf2 "id"\cf0 :61,\cf2 "name"\cf0 :\cf2 "Web_Response_Success_Rate threshold"\cf0 ,\cf2 "parent"\cf0 :9\},\
+\{\cf2 "id"\cf0 :62,\cf2 "name"\cf0 :\cf2 "Web_Response_Delay_ms threshold"\cf0 ,\cf2 "parent"\cf0 :9\},\
+\{\cf2 "id"\cf0 :63,\cf2 "name"\cf0 :\cf2 "Web_Browsing_Success_Rate threshold"\cf0 ,\cf2 "parent"\cf0 :9\},\
+\{\cf2 "id"\cf0 :64,\cf2 "name"\cf0 :\cf2 "Web_Page_Download_Throughput_kbps threshold"\cf0 ,\cf2 "parent"\cf0 :9\},\
+\{\cf2 "id"\cf0 :65,\cf2 "name"\cf0 :\cf2 "2G HLR Active ADM Active CARES Active  Count Threshold"\cf0 ,\cf2 "parent"\cf0 :10\},\
+\{\cf2 "id"\cf0 :66,\cf2 "name"\cf0 :\cf2 "3G HLR Active ADM Active CARES Active  Count Threshold"\cf0 ,\cf2 "parent"\cf0 :10\},\
+\{\cf2 "id"\cf0 :67,\cf2 "name"\cf0 :\cf2 "Call Barred Times (times) Threshold"\cf0 ,\cf2 "parent"\cf0 :19\},\
+\{\cf2 "id"\cf0 :68,\cf2 "name"\cf0 :\cf2 "Call Completion Times (times) Threshold"\cf0 ,\cf2 "parent"\cf0 :19\},\
+\{\cf2 "id"\cf0 :69,\cf2 "name"\cf0 :\cf2 "Call Connected Ratio Threshold"\cf0 ,\cf2 "parent"\cf0 :19\},\
+\{\cf2 "id"\cf0 :70,\cf2 "name"\cf0 :\cf2 "Callee Absent Times (times) Threshold"\cf0 ,\cf2 "parent"\cf0 :19\},\
+\{\cf2 "id"\cf0 :71,\cf2 "name"\cf0 :\cf2 "Callee Busy Times (times) Threshold"\cf0 ,\cf2 "parent"\cf0 :19\},\
+\{\cf2 "id"\cf0 :72,\cf2 "name"\cf0 :\cf2 "Callee Service Barred Times (times) Threshold"\cf0 ,\cf2 "parent"\cf0 :19\},\
+\{\cf2 "id"\cf0 :73,\cf2 "name"\cf0 :\cf2 "Gb mode attach reject(GPRS service not allowed) (times) Threshold"\cf0 ,\cf2 "parent"\cf0 :19\},\
+\{\cf2 "id"\cf0 :74,\cf2 "name"\cf0 :\cf2 "Gb Mode Attach success Rate Threshold"\cf0 ,\cf2 "parent"\cf0 :19\},\
+\{\cf2 "id"\cf0 :75,\cf2 "name"\cf0 :\cf2 "Gb mode GPRS attach accept times (times) Threshold"\cf0 ,\cf2 "parent"\cf0 :19\},\
+\{\cf2 "id"\cf0 :76,\cf2 "name"\cf0 :\cf2 "Gb mode GPRS attach reject(GPRS not allowed in PLMN) (times) Threshold"\cf0 ,\cf2 "parent"\cf0 :19\},\
+\{\cf2 "id"\cf0 :77,\cf2 "name"\cf0 :\cf2 "Gb mode GPRS attach request times (times) Threshold"\cf0 ,\cf2 "parent"\cf0 :19\},\
+\{\cf2 "id"\cf0 :78,\cf2 "name"\cf0 :\cf2 "Iu mode attach reject(GPRS service not allowed) (times) Threshold"\cf0 ,\cf2 "parent"\cf0 :19\},\
+\{\cf2 "id"\cf0 :79,\cf2 "name"\cf0 :\cf2 "Iu Mode Attach Success Rate Threshold"\cf0 ,\cf2 "parent"\cf0 :19\},\
+\{\cf2 "id"\cf0 :80,\cf2 "name"\cf0 :\cf2 "Iu mode GPRS attach reject(no suitable cell in LA) (times) Threshold"\cf0 ,\cf2 "parent"\cf0 :19\},\
+\{\cf2 "id"\cf0 :81,\cf2 "name"\cf0 :\cf2 "Iu mode GPRS attach reject(roaming not allowed in LA) (times) Threshold"\cf0 ,\cf2 "parent"\cf0 :19\},\
+\{\cf2 "id"\cf0 :82,\cf2 "name"\cf0 :\cf2 "Iu mode GPRS attach request times (times) Threshold"\cf0 ,\cf2 "parent"\cf0 :19\},\
+\{\cf2 "id"\cf0 :83,\cf2 "name"\cf0 :\cf2 "Iu mode GPRS attach success times (times) Threshold"\cf0 ,\cf2 "parent"\cf0 :19\},\
+\{\cf2 "id"\cf0 :84,\cf2 "name"\cf0 :\cf2 "Releases Before Ringing (times) Threshold"\cf0 ,\cf2 "parent"\cf0 :19\},\
+\{\cf2 "id"\cf0 :85,\cf2 "name"\cf0 :\cf2 "Wrong Dialing Times (times) Threshold"\cf0 ,\cf2 "parent"\cf0 :19\},\
+\{\cf2 "id"\cf0 :87,\cf2 "name"\cf0 :\cf2 "Route selection failure Threshold"\cf0 ,\cf2 "parent"\cf0 :19\},\
+\{\cf2 "id"\cf0 :90,\cf2 "name"\cf0 :\cf2 "2G Payload Threshold"\cf0 ,\cf2 "parent"\cf0 :17\},\
+\{\cf2 "id"\cf0 :91,\cf2 "name"\cf0 :\cf2 "3G Throughput(NWD)\'a0 Threshold"\cf0 ,\cf2 "parent"\cf0 :18\},\
+\{\cf2 "id"\cf0 :92,\cf2 "name"\cf0 :\cf2 "2G Voice Traffic Threshold"\cf0 ,\cf2 "parent"\cf0 :17\},\
+\{\cf2 "id"\cf0 :93,\cf2 "name"\cf0 :\cf2 "3G Payload Threshold"\cf0 ,\cf2 "parent"\cf0 :18\},\
+\{\cf2 "id"\cf0 :94,\cf2 "name"\cf0 :\cf2 "3G Throughput Threshold"\cf0 ,\cf2 "parent"\cf0 :18\},\
+\{\cf2 "id"\cf0 :95,\cf2 "name"\cf0 :\cf2 "CS IRAT HSR Threshold"\cf0 ,\cf2 "parent"\cf0 :18\},\
+\{\cf2 "id"\cf0 :96,\cf2 "name"\cf0 :\cf2 "CS TCH Blocking Threshold"\cf0 ,\cf2 "parent"\cf0 :17\},\
+\{\cf2 "id"\cf0 :97,\cf2 "name"\cf0 :\cf2 "CSSR PS Threshold"\cf0 ,\cf2 "parent"\cf0 :18\},\
+\{\cf2 "id"\cf0 :98,\cf2 "name"\cf0 :\cf2 "Data throughput per subscriber (Mbps) Threshold"\cf0 ,\cf2 "parent"\cf0 :17\},\
+\{\cf2 "id"\cf0 :99,\cf2 "name"\cf0 :\cf2 "Drop Rate CS Threshold"\cf0 ,\cf2 "parent"\cf0 :18\},\
+\{\cf2 "id"\cf0 :100,\cf2 "name"\cf0 :\cf2 "Drop Rate PS Threshold"\cf0 ,\cf2 "parent"\cf0 :18\},\
+\{\cf2 "id"\cf0 :101,\cf2 "name"\cf0 :\cf2 "HSR Threshold"\cf0 ,\cf2 "parent"\cf0 :17\},\
+\{\cf2 "id"\cf0 :102,\cf2 "name"\cf0 :\cf2 "SDCCH\'a0( 2G Radio Blocking )\'a0Blocking Threshold"\cf0 ,\cf2 "parent"\cf0 :17\},\
+\{\cf2 "id"\cf0 :103,\cf2 "name"\cf0 :\cf2 "3G Voice Traffic Threshold"\cf0 ,\cf2 "parent"\cf0 :18\},\
+\{\cf2 "id"\cf0 :104,\cf2 "name"\cf0 :\cf2 "CSSR CS Threshold"\cf0 ,\cf2 "parent"\cf0 :18\},\
+\{\cf2 "id"\cf0 :115,\cf2 "name"\cf0 :\cf2 "Gb Mode Attach success Rate"\cf0 ,\cf2 "parent"\cf0 :74\},\
+\{\cf2 "id"\cf0 :115,\cf2 "name"\cf0 :\cf2 "Gb Mode Attach success Rate"\cf0 ,\cf2 "parent"\cf0 :74\},\
+\{\cf2 "id"\cf0 :115,\cf2 "name"\cf0 :\cf2 "Gb Mode Attach success Rate"\cf0 ,\cf2 "parent"\cf0 :74\},\
+\{\cf2 "id"\cf0 :116,\cf2 "name"\cf0 :\cf2 "Iu Mode Attach Success Rate"\cf0 ,\cf2 "parent"\cf0 :79\},\
+\{\cf2 "id"\cf0 :116,\cf2 "name"\cf0 :\cf2 "Iu Mode Attach Success Rate"\cf0 ,\cf2 "parent"\cf0 :79\},\
+\{\cf2 "id"\cf0 :116,\cf2 "name"\cf0 :\cf2 "Iu Mode Attach Success Rate"\cf0 ,\cf2 "parent"\cf0 :79\},\
+\{\cf2 "id"\cf0 :117,\cf2 "name"\cf0 :\cf2 "Drop Rate CS (3g)"\cf0 ,\cf2 "parent"\cf0 :99\},\
+\{\cf2 "id"\cf0 :117,\cf2 "name"\cf0 :\cf2 "Drop Rate CS (3g)"\cf0 ,\cf2 "parent"\cf0 :99\},\
+\{\cf2 "id"\cf0 :117,\cf2 "name"\cf0 :\cf2 "Drop Rate CS (3g)"\cf0 ,\cf2 "parent"\cf0 :99\},\
+\{\cf2 "id"\cf0 :118,\cf2 "name"\cf0 :\cf2 "Drop Rate PS (3g)"\cf0 ,\cf2 "parent"\cf0 :100\},\
+\{\cf2 "id"\cf0 :118,\cf2 "name"\cf0 :\cf2 "Drop Rate PS (3g)"\cf0 ,\cf2 "parent"\cf0 :100\},\
+\{\cf2 "id"\cf0 :118,\cf2 "name"\cf0 :\cf2 "Drop Rate PS (3g)"\cf0 ,\cf2 "parent"\cf0 :100\},\
+\{\cf2 "id"\cf0 :119,\cf2 "name"\cf0 :\cf2 "Web_Response_Success_Rate"\cf0 ,\cf2 "parent"\cf0 :61\},\
+\{\cf2 "id"\cf0 :119,\cf2 "name"\cf0 :\cf2 "Web_Response_Success_Rate"\cf0 ,\cf2 "parent"\cf0 :61\},\
+\{\cf2 "id"\cf0 :119,\cf2 "name"\cf0 :\cf2 "Web_Response_Success_Rate"\cf0 ,\cf2 "parent"\cf0 :61\},\
+\{\cf2 "id"\cf0 :120,\cf2 "name"\cf0 :\cf2 "Web_Browsing_Success_Rate"\cf0 ,\cf2 "parent"\cf0 :63\},\
+\{\cf2 "id"\cf0 :120,\cf2 "name"\cf0 :\cf2 "Web_Browsing_Success_Rate"\cf0 ,\cf2 "parent"\cf0 :63\},\
+\{\cf2 "id"\cf0 :120,\cf2 "name"\cf0 :\cf2 "Web_Browsing_Success_Rate"\cf0 ,\cf2 "parent"\cf0 :63\},\
+\{\cf2 "id"\cf0 :121,\cf2 "name"\cf0 :\cf2 "Call Connected Ratio"\cf0 ,\cf2 "parent"\cf0 :69\},\
+\{\cf2 "id"\cf0 :121,\cf2 "name"\cf0 :\cf2 "Call Connected Ratio"\cf0 ,\cf2 "parent"\cf0 :69\},\
+\{\cf2 "id"\cf0 :121,\cf2 "name"\cf0 :\cf2 "Call Connected Ratio"\cf0 ,\cf2 "parent"\cf0 :69\},\
+\{\cf2 "id"\cf0 :122,\cf2 "name"\cf0 :\cf2 "3G Throughput(NWD)"\cf0 ,\cf2 "parent"\cf0 :91\},\
+\{\cf2 "id"\cf0 :122,\cf2 "name"\cf0 :\cf2 "3G Throughput(NWD)"\cf0 ,\cf2 "parent"\cf0 :91\},\
+\{\cf2 "id"\cf0 :122,\cf2 "name"\cf0 :\cf2 "3G Throughput(NWD)"\cf0 ,\cf2 "parent"\cf0 :91\},\
+\{\cf2 "id"\cf0 :123,\cf2 "name"\cf0 :\cf2 "3G Throughput"\cf0 ,\cf2 "parent"\cf0 :94\},\
+\{\cf2 "id"\cf0 :123,\cf2 "name"\cf0 :\cf2 "3G Throughput"\cf0 ,\cf2 "parent"\cf0 :94\},\
+\{\cf2 "id"\cf0 :123,\cf2 "name"\cf0 :\cf2 "3G Throughput"\cf0 ,\cf2 "parent"\cf0 :94\},\
+\{\cf2 "id"\cf0 :124,\cf2 "name"\cf0 :\cf2 "CS IRAT HSR"\cf0 ,\cf2 "parent"\cf0 :95\},\
+\{\cf2 "id"\cf0 :124,\cf2 "name"\cf0 :\cf2 "CS IRAT HSR"\cf0 ,\cf2 "parent"\cf0 :95\},\
+\{\cf2 "id"\cf0 :124,\cf2 "name"\cf0 :\cf2 "CS IRAT HSR"\cf0 ,\cf2 "parent"\cf0 :95\},\
+\{\cf2 "id"\cf0 :125,\cf2 "name"\cf0 :\cf2 "CS TCH Blocking"\cf0 ,\cf2 "parent"\cf0 :96\},\
+\{\cf2 "id"\cf0 :125,\cf2 "name"\cf0 :\cf2 "CS TCH Blocking"\cf0 ,\cf2 "parent"\cf0 :96\},\
+\{\cf2 "id"\cf0 :125,\cf2 "name"\cf0 :\cf2 "CS TCH Blocking"\cf0 ,\cf2 "parent"\cf0 :96\},\
+\{\cf2 "id"\cf0 :126,\cf2 "name"\cf0 :\cf2 "CSSR PS (3g)"\cf0 ,\cf2 "parent"\cf0 :97\},\
+\{\cf2 "id"\cf0 :126,\cf2 "name"\cf0 :\cf2 "CSSR PS (3g)"\cf0 ,\cf2 "parent"\cf0 :97\},\
+\{\cf2 "id"\cf0 :126,\cf2 "name"\cf0 :\cf2 "CSSR PS (3g)"\cf0 ,\cf2 "parent"\cf0 :97\},\
+\{\cf2 "id"\cf0 :127,\cf2 "name"\cf0 :\cf2 "Data throughput per subscriber (Mbps)"\cf0 ,\cf2 "parent"\cf0 :98\},\
+\{\cf2 "id"\cf0 :127,\cf2 "name"\cf0 :\cf2 "Data throughput per subscriber (Mbps)"\cf0 ,\cf2 "parent"\cf0 :98\},\
+\{\cf2 "id"\cf0 :127,\cf2 "name"\cf0 :\cf2 "Data throughput per subscriber (Mbps)"\cf0 ,\cf2 "parent"\cf0 :98\},\
+\{\cf2 "id"\cf0 :128,\cf2 "name"\cf0 :\cf2 "HSR"\cf0 ,\cf2 "parent"\cf0 :101\},\
+\{\cf2 "id"\cf0 :128,\cf2 "name"\cf0 :\cf2 "HSR"\cf0 ,\cf2 "parent"\cf0 :101\},\
+\{\cf2 "id"\cf0 :128,\cf2 "name"\cf0 :\cf2 "HSR"\cf0 ,\cf2 "parent"\cf0 :101\},\
+\{\cf2 "id"\cf0 :129,\cf2 "name"\cf0 :\cf2 "SDCCH Blocking\'a0( 2G Radio Blocking )"\cf0 ,\cf2 "parent"\cf0 :102\},\
+\{\cf2 "id"\cf0 :129,\cf2 "name"\cf0 :\cf2 "SDCCH Blocking\'a0( 2G Radio Blocking )"\cf0 ,\cf2 "parent"\cf0 :102\},\
+\{\cf2 "id"\cf0 :129,\cf2 "name"\cf0 :\cf2 "SDCCH Blocking\'a0( 2G Radio Blocking )"\cf0 ,\cf2 "parent"\cf0 :102\},\
+\{\cf2 "id"\cf0 :131,\cf2 "name"\cf0 :\cf2 "CSSR CS (3g)"\cf0 ,\cf2 "parent"\cf0 :104\},\
+\{\cf2 "id"\cf0 :131,\cf2 "name"\cf0 :\cf2 "CSSR CS (3g)"\cf0 ,\cf2 "parent"\cf0 :104\},\
+\{\cf2 "id"\cf0 :131,\cf2 "name"\cf0 :\cf2 "CSSR CS (3g)"\cf0 ,\cf2 "parent"\cf0 :104\},\
+\{\cf2 "id"\cf0 :132,\cf2 "name"\cf0 :\cf2 "Video_Streaming_Play_Delay_ms"\cf0 ,\cf2 "parent"\cf0 :58\},\
+\{\cf2 "id"\cf0 :132,\cf2 "name"\cf0 :\cf2 "Video_Streaming_Play_Delay_ms"\cf0 ,\cf2 "parent"\cf0 :58\},\
+\{\cf2 "id"\cf0 :132,\cf2 "name"\cf0 :\cf2 "Video_Streaming_Play_Delay_ms"\cf0 ,\cf2 "parent"\cf0 :58\},\
+\{\cf2 "id"\cf0 :133,\cf2 "name"\cf0 :\cf2 "Video_Streaming_Stall_Frequency"\cf0 ,\cf2 "parent"\cf0 :59\},\
+\{\cf2 "id"\cf0 :133,\cf2 "name"\cf0 :\cf2 "Video_Streaming_Stall_Frequency"\cf0 ,\cf2 "parent"\cf0 :59\},\
+\{\cf2 "id"\cf0 :133,\cf2 "name"\cf0 :\cf2 "Video_Streaming_Stall_Frequency"\cf0 ,\cf2 "parent"\cf0 :59\},\
+\{\cf2 "id"\cf0 :134,\cf2 "name"\cf0 :\cf2 "Video_Streaming_Throughput_kbps"\cf0 ,\cf2 "parent"\cf0 :60\},\
+\{\cf2 "id"\cf0 :134,\cf2 "name"\cf0 :\cf2 "Video_Streaming_Throughput_kbps"\cf0 ,\cf2 "parent"\cf0 :60\},\
+\{\cf2 "id"\cf0 :134,\cf2 "name"\cf0 :\cf2 "Video_Streaming_Throughput_kbps"\cf0 ,\cf2 "parent"\cf0 :60\},\
+\{\cf2 "id"\cf0 :135,\cf2 "name"\cf0 :\cf2 "Web_Response_Delay_ms"\cf0 ,\cf2 "parent"\cf0 :62\},\
+\{\cf2 "id"\cf0 :135,\cf2 "name"\cf0 :\cf2 "Web_Response_Delay_ms"\cf0 ,\cf2 "parent"\cf0 :62\},\
+\{\cf2 "id"\cf0 :135,\cf2 "name"\cf0 :\cf2 "Web_Response_Delay_ms"\cf0 ,\cf2 "parent"\cf0 :62\},\
+\{\cf2 "id"\cf0 :136,\cf2 "name"\cf0 :\cf2 "Web_Page_Download_Throughput_kbps"\cf0 ,\cf2 "parent"\cf0 :64\},\
+\{\cf2 "id"\cf0 :136,\cf2 "name"\cf0 :\cf2 "Web_Page_Download_Throughput_kbps"\cf0 ,\cf2 "parent"\cf0 :64\},\
+\{\cf2 "id"\cf0 :136,\cf2 "name"\cf0 :\cf2 "Web_Page_Download_Throughput_kbps"\cf0 ,\cf2 "parent"\cf0 :64\},\
+\{\cf2 "id"\cf0 :137,\cf2 "name"\cf0 :\cf2 "CBS Relay Success Ratio"\cf0 ,\cf2 "parent"\cf0 :11\},\
+\{\cf2 "id"\cf0 :138,\cf2 "name"\cf0 :\cf2 "SMS Delivered Success Ratio"\cf0 ,\cf2 "parent"\cf0 :7\},\
+\{\cf2 "id"\cf0 :140,\cf2 "name"\cf0 :\cf2 "CBS\'a0Ebill\'a0503 Success Count"\cf0 ,\cf2 "parent"\cf0 :33\},\
+\{\cf2 "id"\cf0 :141,\cf2 "name"\cf0 :\cf2 "CALL CONNECTED TIMES"\cf0 ,\cf2 "parent"\cf0 :54\},\
+\{\cf2 "id"\cf0 :142,\cf2 "name"\cf0 :\cf2 "SMS Bill Successful Count"\cf0 ,\cf2 "parent"\cf0 :20\},\
+\{\cf2 "id"\cf0 :144,\cf2 "name"\cf0 :\cf2 "2G HLR Active ADM Active CARES Active  Count"\cf0 ,\cf2 "parent"\cf0 :65\},\
+\{\cf2 "id"\cf0 :144,\cf2 "name"\cf0 :\cf2 "2G HLR Active ADM Active CARES Active  Count"\cf0 ,\cf2 "parent"\cf0 :65\},\
+\{\cf2 "id"\cf0 :144,\cf2 "name"\cf0 :\cf2 "2G HLR Active ADM Active CARES Active  Count"\cf0 ,\cf2 "parent"\cf0 :65\},\
+\{\cf2 "id"\cf0 :145,\cf2 "name"\cf0 :\cf2 "3G HLR Active ADM Active CARES Active  Count"\cf0 ,\cf2 "parent"\cf0 :66\},\
+\{\cf2 "id"\cf0 :145,\cf2 "name"\cf0 :\cf2 "3G HLR Active ADM Active CARES Active  Count"\cf0 ,\cf2 "parent"\cf0 :66\},\
+\{\cf2 "id"\cf0 :145,\cf2 "name"\cf0 :\cf2 "3G HLR Active ADM Active CARES Active  Count"\cf0 ,\cf2 "parent"\cf0 :66\},\
+\{\cf2 "id"\cf0 :146,\cf2 "name"\cf0 :\cf2 "Change of ownership success Counts"\cf0 ,\cf2 "parent"\cf0 :21\},\
+\{\cf2 "id"\cf0 :148,\cf2 "name"\cf0 :\cf2 "Nadra Activity Success Counts"\cf0 ,\cf2 "parent"\cf0 :22\},\
+\{\cf2 "id"\cf0 :150,\cf2 "name"\cf0 :\cf2 "New sale success Counts"\cf0 ,\cf2 "parent"\cf0 :23\},\
+\{\cf2 "id"\cf0 :152,\cf2 "name"\cf0 :\cf2 "Post to Pre Migratation Success Counts"\cf0 ,\cf2 "parent"\cf0 :24\},\
+\{\cf2 "id"\cf0 :154,\cf2 "name"\cf0 :\cf2 "Pre MNP Success Count"\cf0 ,\cf2 "parent"\cf0 :25\},\
+\{\cf2 "id"\cf0 :156,\cf2 "name"\cf0 :\cf2 "Pre to Post Migratation Success Counts"\cf0 ,\cf2 "parent"\cf0 :26\},\
+\{\cf2 "id"\cf0 :158,\cf2 "name"\cf0 :\cf2 "Sim Replacement Success Counts"\cf0 ,\cf2 "parent"\cf0 :27\},\
+\{\cf2 "id"\cf0 :159,\cf2 "name"\cf0 :\cf2 "Sim Replacement Total Counts"\cf0 ,\cf2 "parent"\cf0 :27\},\
+\{\cf2 "id"\cf0 :160,\cf2 "name"\cf0 :\cf2 "All Activities Succes count"\cf0 ,\cf2 "parent"\cf0 :28\},\
+\{\cf2 "id"\cf0 :174,\cf2 "name"\cf0 :\cf2 "SMS Delivered Total  Count"\cf0 ,\cf2 "parent"\cf0 :138\},\
+\{\cf2 "id"\cf0 :176,\cf2 "name"\cf0 :\cf2 "SMS Bucket Subcription Activation success count"\cf0 ,\cf2 "parent"\cf0 :31\},\
+\{\cf2 "id"\cf0 :178,\cf2 "name"\cf0 :\cf2 "CBS Received on Relay Count\'a0"\cf0 ,\cf2 "parent"\cf0 :137\},\
+\{\cf2 "id"\cf0 :181,\cf2 "name"\cf0 :\cf2 "CBS\'a0Ebill Successful Count"\cf0 ,\cf2 "parent"\cf0 :32\},\
+\{\cf2 "id"\cf0 :182,\cf2 "name"\cf0 :\cf2 "Encrypted SMS\'a0Success\'a0Count"\cf0 ,\cf2 "parent"\cf0 :34\},\
+\{\cf2 "id"\cf0 :184,\cf2 "name"\cf0 :\cf2 "Normal SMS\'a0Success\'a0Count"\cf0 ,\cf2 "parent"\cf0 :35\},\
+\{\cf2 "id"\cf0 :186,\cf2 "name"\cf0 :\cf2 "USSD\'a0Success\'a0Count"\cf0 ,\cf2 "parent"\cf0 :37\},\
+\{\cf2 "id"\cf0 :187,\cf2 "name"\cf0 :\cf2 "Network connection error Counts"\cf0 ,\cf2 "parent"\cf0 :86\},\
+\{\cf2 "id"\cf0 :187,\cf2 "name"\cf0 :\cf2 "Network connection error Counts"\cf0 ,\cf2 "parent"\cf0 :86\},\
+\{\cf2 "id"\cf0 :187,\cf2 "name"\cf0 :\cf2 "Network connection error Counts"\cf0 ,\cf2 "parent"\cf0 :86\},\
+\{\cf2 "id"\cf0 :188,\cf2 "name"\cf0 :\cf2 "Route selection failure Counts"\cf0 ,\cf2 "parent"\cf0 :87\},\
+\{\cf2 "id"\cf0 :188,\cf2 "name"\cf0 :\cf2 "Route selection failure Counts"\cf0 ,\cf2 "parent"\cf0 :87\},\
+\{\cf2 "id"\cf0 :188,\cf2 "name"\cf0 :\cf2 "Route selection failure Counts"\cf0 ,\cf2 "parent"\cf0 :87\},\
+\{\cf2 "id"\cf0 :189,\cf2 "name"\cf0 :\cf2 "Signal exceptions Counts"\cf0 ,\cf2 "parent"\cf0 :88\},\
+\{\cf2 "id"\cf0 :189,\cf2 "name"\cf0 :\cf2 "Signal exceptions Counts"\cf0 ,\cf2 "parent"\cf0 :88\},\
+\{\cf2 "id"\cf0 :189,\cf2 "name"\cf0 :\cf2 "Signal exceptions Counts"\cf0 ,\cf2 "parent"\cf0 :88\},\
+\{\cf2 "id"\cf0 :190,\cf2 "name"\cf0 :\cf2 "System error Counts"\cf0 ,\cf2 "parent"\cf0 :89\},\
+\{\cf2 "id"\cf0 :190,\cf2 "name"\cf0 :\cf2 "System error Counts"\cf0 ,\cf2 "parent"\cf0 :89\},\
+\{\cf2 "id"\cf0 :190,\cf2 "name"\cf0 :\cf2 "System error Counts"\cf0 ,\cf2 "parent"\cf0 :89\},\
+\{\cf2 "id"\cf0 :191,\cf2 "name"\cf0 :\cf2 "Recharging through USSD\'a0 Success Counts"\cf0 ,\cf2 "parent"\cf0 :38\},\
+\{\cf2 "id"\cf0 :195,\cf2 "name"\cf0 :\cf2 "Inbound Back Success Count"\cf0 ,\cf2 "parent"\cf0 :39\},\
+\{\cf2 "id"\cf0 :197,\cf2 "name"\cf0 :\cf2 "Inbound Captured Success Count"\cf0 ,\cf2 "parent"\cf0 :40\},\
+\{\cf2 "id"\cf0 :199,\cf2 "name"\cf0 :\cf2 "Inbound Lost Success Count"\cf0 ,\cf2 "parent"\cf0 :41\},\
+\{\cf2 "id"\cf0 :201,\cf2 "name"\cf0 :\cf2 "Outbound Change Country Success Count"\cf0 ,\cf2 "parent"\cf0 :42\},\
+\{\cf2 "id"\cf0 :202,\cf2 "name"\cf0 :\cf2 "Post MNP  - BTS Sucesss Count"\cf0 ,\cf2 "parent"\cf0 :43\},\
+\{\cf2 "id"\cf0 :204,\cf2 "name"\cf0 :\cf2 "Post MNP  - HLR Sucesss Count"\cf0 ,\cf2 "parent"\cf0 :44\},\
+\{\cf2 "id"\cf0 :206,\cf2 "name"\cf0 :\cf2 "Activities through my ufone app Success Counts"\cf0 ,\cf2 "parent"\cf0 :45\},\
+\{\cf2 "id"\cf0 :208,\cf2 "name"\cf0 :\cf2 "Bundle Subscription via My Ufone App Success Counts"\cf0 ,\cf2 "parent"\cf0 :46\},\
+\{\cf2 "id"\cf0 :210,\cf2 "name"\cf0 :\cf2 "Recharge via My Ufone App Success Counts"\cf0 ,\cf2 "parent"\cf0 :47\},\
+\{\cf2 "id"\cf0 :212,\cf2 "name"\cf0 :\cf2 "VAS Subscription My Ufone App Success Counts"\cf0 ,\cf2 "parent"\cf0 :48\},\
+\{\cf2 "id"\cf0 :214,\cf2 "name"\cf0 :\cf2 "Super Card\'a0 - Recharge Success Counts"\cf0 ,\cf2 "parent"\cf0 :49\},\
+\{\cf2 "id"\cf0 :216,\cf2 "name"\cf0 :\cf2 "Super Card\'a0 - Recharge Total Counts"\cf0 ,\cf2 "parent"\cf0 :49\},\
+\{\cf2 "id"\cf0 :217,\cf2 "name"\cf0 :\cf2 "SMS Bucket Subscription Renewal Total Counts"\cf0 ,\cf2 "parent"\cf0 :52\},\
+\{\cf2 "id"\cf0 :219,\cf2 "name"\cf0 :\cf2 "COUNT_WEB_PAGESUCFLAGLAT"\cf0 ,\cf2 "parent"\cf0 :113\},\
+\{\cf2 "id"\cf0 :219,\cf2 "name"\cf0 :\cf2 "COUNT_WEB_PAGESUCFLAGLAT"\cf0 ,\cf2 "parent"\cf0 :113\},\
+\{\cf2 "id"\cf0 :219,\cf2 "name"\cf0 :\cf2 "COUNT_WEB_PAGESUCFLAGLAT"\cf0 ,\cf2 "parent"\cf0 :113\},\
+\{\cf2 "id"\cf0 :220,\cf2 "name"\cf0 :\cf2 "COUNT_WEB_PAGESUCFLAGSR"\cf0 ,\cf2 "parent"\cf0 :114\},\
+\{\cf2 "id"\cf0 :220,\cf2 "name"\cf0 :\cf2 "COUNT_WEB_PAGESUCFLAGSR"\cf0 ,\cf2 "parent"\cf0 :114\},\
+\{\cf2 "id"\cf0 :220,\cf2 "name"\cf0 :\cf2 "COUNT_WEB_PAGESUCFLAGSR"\cf0 ,\cf2 "parent"\cf0 :114\},\
+\{\cf2 "id"\cf0 :222,\cf2 "name"\cf0 :\cf2 "Total Number of Successful Logs"\cf0 ,\cf2 "parent"\cf0 :29\},\
+\{\cf2 "id"\cf0 :225,\cf2 "name"\cf0 :\cf2 "Call Barred Times (times)"\cf0 ,\cf2 "parent"\cf0 :67\},\
+\{\cf2 "id"\cf0 :225,\cf2 "name"\cf0 :\cf2 "Call Barred Times (times)"\cf0 ,\cf2 "parent"\cf0 :67\},\
+\{\cf2 "id"\cf0 :225,\cf2 "name"\cf0 :\cf2 "Call Barred Times (times)"\cf0 ,\cf2 "parent"\cf0 :67\},\
+\{\cf2 "id"\cf0 :226,\cf2 "name"\cf0 :\cf2 "Call Completion Times (times)"\cf0 ,\cf2 "parent"\cf0 :68\},\
+\{\cf2 "id"\cf0 :226,\cf2 "name"\cf0 :\cf2 "Call Completion Times (times)"\cf0 ,\cf2 "parent"\cf0 :68\},\
+\{\cf2 "id"\cf0 :226,\cf2 "name"\cf0 :\cf2 "Call Completion Times (times)"\cf0 ,\cf2 "parent"\cf0 :68\},\
+\{\cf2 "id"\cf0 :227,\cf2 "name"\cf0 :\cf2 "Callee Absent Times (times)"\cf0 ,\cf2 "parent"\cf0 :70\},\
+\{\cf2 "id"\cf0 :227,\cf2 "name"\cf0 :\cf2 "Callee Absent Times (times)"\cf0 ,\cf2 "parent"\cf0 :70\},\
+\{\cf2 "id"\cf0 :227,\cf2 "name"\cf0 :\cf2 "Callee Absent Times (times)"\cf0 ,\cf2 "parent"\cf0 :70\},\
+\{\cf2 "id"\cf0 :228,\cf2 "name"\cf0 :\cf2 "Callee Busy Times (times)"\cf0 ,\cf2 "parent"\cf0 :71\},\
+\{\cf2 "id"\cf0 :228,\cf2 "name"\cf0 :\cf2 "Callee Busy Times (times)"\cf0 ,\cf2 "parent"\cf0 :71\},\
+\{\cf2 "id"\cf0 :228,\cf2 "name"\cf0 :\cf2 "Callee Busy Times (times)"\cf0 ,\cf2 "parent"\cf0 :71\},\
+\{\cf2 "id"\cf0 :229,\cf2 "name"\cf0 :\cf2 "Callee Service Barred Times (times)"\cf0 ,\cf2 "parent"\cf0 :72\},\
+\{\cf2 "id"\cf0 :229,\cf2 "name"\cf0 :\cf2 "Callee Service Barred Times (times)"\cf0 ,\cf2 "parent"\cf0 :72\},\
+\{\cf2 "id"\cf0 :229,\cf2 "name"\cf0 :\cf2 "Callee Service Barred Times (times)"\cf0 ,\cf2 "parent"\cf0 :72\},\
+\{\cf2 "id"\cf0 :230,\cf2 "name"\cf0 :\cf2 "Gb mode attach reject(GPRS service not allowed) (times)"\cf0 ,\cf2 "parent"\cf0 :73\},\
+\{\cf2 "id"\cf0 :230,\cf2 "name"\cf0 :\cf2 "Gb mode attach reject(GPRS service not allowed) (times)"\cf0 ,\cf2 "parent"\cf0 :73\},\
+\{\cf2 "id"\cf0 :230,\cf2 "name"\cf0 :\cf2 "Gb mode attach reject(GPRS service not allowed) (times)"\cf0 ,\cf2 "parent"\cf0 :73\},\
+\{\cf2 "id"\cf0 :231,\cf2 "name"\cf0 :\cf2 "Gb mode GPRS attach accept times (times)"\cf0 ,\cf2 "parent"\cf0 :75\},\
+\{\cf2 "id"\cf0 :231,\cf2 "name"\cf0 :\cf2 "Gb mode GPRS attach accept times (times)"\cf0 ,\cf2 "parent"\cf0 :75\},\
+\{\cf2 "id"\cf0 :231,\cf2 "name"\cf0 :\cf2 "Gb mode GPRS attach accept times (times)"\cf0 ,\cf2 "parent"\cf0 :75\},\
+\{\cf2 "id"\cf0 :232,\cf2 "name"\cf0 :\cf2 "Gb mode GPRS attach reject(GPRS not allowed in PLMN) (times)"\cf0 ,\cf2 "parent"\cf0 :76\},\
+\{\cf2 "id"\cf0 :232,\cf2 "name"\cf0 :\cf2 "Gb mode GPRS attach reject(GPRS not allowed in PLMN) (times)"\cf0 ,\cf2 "parent"\cf0 :76\},\
+\{\cf2 "id"\cf0 :232,\cf2 "name"\cf0 :\cf2 "Gb mode GPRS attach reject(GPRS not allowed in PLMN) (times)"\cf0 ,\cf2 "parent"\cf0 :76\},\
+\{\cf2 "id"\cf0 :233,\cf2 "name"\cf0 :\cf2 "Gb mode GPRS attach request times (times)"\cf0 ,\cf2 "parent"\cf0 :77\},\
+\{\cf2 "id"\cf0 :233,\cf2 "name"\cf0 :\cf2 "Gb mode GPRS attach request times (times)"\cf0 ,\cf2 "parent"\cf0 :77\},\
+\{\cf2 "id"\cf0 :233,\cf2 "name"\cf0 :\cf2 "Gb mode GPRS attach request times (times)"\cf0 ,\cf2 "parent"\cf0 :77\},\
+\{\cf2 "id"\cf0 :234,\cf2 "name"\cf0 :\cf2 "Iu mode attach reject(GPRS service not allowed) (times)"\cf0 ,\cf2 "parent"\cf0 :78\},\
+\{\cf2 "id"\cf0 :234,\cf2 "name"\cf0 :\cf2 "Iu mode attach reject(GPRS service not allowed) (times)"\cf0 ,\cf2 "parent"\cf0 :78\},\
+\{\cf2 "id"\cf0 :234,\cf2 "name"\cf0 :\cf2 "Iu mode attach reject(GPRS service not allowed) (times)"\cf0 ,\cf2 "parent"\cf0 :78\},\
+\{\cf2 "id"\cf0 :235,\cf2 "name"\cf0 :\cf2 "Iu mode GPRS attach reject(no suitable cell in LA) (times)"\cf0 ,\cf2 "parent"\cf0 :80\},\
+\{\cf2 "id"\cf0 :235,\cf2 "name"\cf0 :\cf2 "Iu mode GPRS attach reject(no suitable cell in LA) (times)"\cf0 ,\cf2 "parent"\cf0 :80\},\
+\{\cf2 "id"\cf0 :235,\cf2 "name"\cf0 :\cf2 "Iu mode GPRS attach reject(no suitable cell in LA) (times)"\cf0 ,\cf2 "parent"\cf0 :80\},\
+\{\cf2 "id"\cf0 :236,\cf2 "name"\cf0 :\cf2 "Iu mode GPRS attach reject(roaming not allowed in LA) (times)"\cf0 ,\cf2 "parent"\cf0 :81\},\
+\{\cf2 "id"\cf0 :236,\cf2 "name"\cf0 :\cf2 "Iu mode GPRS attach reject(roaming not allowed in LA) (times)"\cf0 ,\cf2 "parent"\cf0 :81\},\
+\{\cf2 "id"\cf0 :236,\cf2 "name"\cf0 :\cf2 "Iu mode GPRS attach reject(roaming not allowed in LA) (times)"\cf0 ,\cf2 "parent"\cf0 :81\},\
+\{\cf2 "id"\cf0 :237,\cf2 "name"\cf0 :\cf2 "Iu mode GPRS attach request times (times)"\cf0 ,\cf2 "parent"\cf0 :82\},\
+\{\cf2 "id"\cf0 :237,\cf2 "name"\cf0 :\cf2 "Iu mode GPRS attach request times (times)"\cf0 ,\cf2 "parent"\cf0 :82\},\
+\{\cf2 "id"\cf0 :237,\cf2 "name"\cf0 :\cf2 "Iu mode GPRS attach request times (times)"\cf0 ,\cf2 "parent"\cf0 :82\},\
+\{\cf2 "id"\cf0 :238,\cf2 "name"\cf0 :\cf2 "Iu mode GPRS attach success times (times)"\cf0 ,\cf2 "parent"\cf0 :83\},\
+\{\cf2 "id"\cf0 :238,\cf2 "name"\cf0 :\cf2 "Iu mode GPRS attach success times (times)"\cf0 ,\cf2 "parent"\cf0 :83\},\
+\{\cf2 "id"\cf0 :238,\cf2 "name"\cf0 :\cf2 "Iu mode GPRS attach success times (times)"\cf0 ,\cf2 "parent"\cf0 :83\},\
+\{\cf2 "id"\cf0 :239,\cf2 "name"\cf0 :\cf2 "Releases Before Ringing (times)"\cf0 ,\cf2 "parent"\cf0 :84\},\
+\{\cf2 "id"\cf0 :239,\cf2 "name"\cf0 :\cf2 "Releases Before Ringing (times)"\cf0 ,\cf2 "parent"\cf0 :84\},\
+\{\cf2 "id"\cf0 :239,\cf2 "name"\cf0 :\cf2 "Releases Before Ringing (times)"\cf0 ,\cf2 "parent"\cf0 :84\},\
+\{\cf2 "id"\cf0 :240,\cf2 "name"\cf0 :\cf2 "Wrong Dialing Times (times)"\cf0 ,\cf2 "parent"\cf0 :85\},\
+\{\cf2 "id"\cf0 :240,\cf2 "name"\cf0 :\cf2 "Wrong Dialing Times (times)"\cf0 ,\cf2 "parent"\cf0 :85\},\
+\{\cf2 "id"\cf0 :240,\cf2 "name"\cf0 :\cf2 "Wrong Dialing Times (times)"\cf0 ,\cf2 "parent"\cf0 :85\},\
+\{\cf2 "id"\cf0 :241,\cf2 "name"\cf0 :\cf2 "CBS Sent from Relay"\cf0 ,\cf2 "parent"\cf0 :137\},\
+\{\cf2 "id"\cf0 :243,\cf2 "name"\cf0 :\cf2 "EVC Successful Recharge Count"\cf0 ,\cf2 "parent"\cf0 :36\},\
+\{\cf2 "id"\cf0 :244,\cf2 "name"\cf0 :\cf2 "2G Payload"\cf0 ,\cf2 "parent"\cf0 :90\},\
+\{\cf2 "id"\cf0 :244,\cf2 "name"\cf0 :\cf2 "2G Payload"\cf0 ,\cf2 "parent"\cf0 :90\},\
+\{\cf2 "id"\cf0 :244,\cf2 "name"\cf0 :\cf2 "2G Payload"\cf0 ,\cf2 "parent"\cf0 :90\},\
+\{\cf2 "id"\cf0 :245,\cf2 "name"\cf0 :\cf2 "2G Voice Traffic\'a0 ( ERLang )"\cf0 ,\cf2 "parent"\cf0 :92\},\
+\{\cf2 "id"\cf0 :245,\cf2 "name"\cf0 :\cf2 "2G Voice Traffic\'a0 ( ERLang )"\cf0 ,\cf2 "parent"\cf0 :92\},\
+\{\cf2 "id"\cf0 :245,\cf2 "name"\cf0 :\cf2 "2G Voice Traffic\'a0 ( ERLang )"\cf0 ,\cf2 "parent"\cf0 :92\},\
+\{\cf2 "id"\cf0 :246,\cf2 "name"\cf0 :\cf2 "3G Payload"\cf0 ,\cf2 "parent"\cf0 :93\},\
+\{\cf2 "id"\cf0 :246,\cf2 "name"\cf0 :\cf2 "3G Payload"\cf0 ,\cf2 "parent"\cf0 :93\},\
+\{\cf2 "id"\cf0 :246,\cf2 "name"\cf0 :\cf2 "3G Payload"\cf0 ,\cf2 "parent"\cf0 :93\},\
+\{\cf2 "id"\cf0 :249,\cf2 "name"\cf0 :\cf2 "Total Number of Attempted Logs"\cf0 ,\cf2 "parent"\cf0 :29\},\
+\{\cf2 "id"\cf0 :250,\cf2 "name"\cf0 :\cf2 "SEIZURE TIMES"\cf0 ,\cf2 "parent"\cf0 :53\},\
+\{\cf2 "id"\cf0 :250,\cf2 "name"\cf0 :\cf2 "SEIZURE TIMES"\cf0 ,\cf2 "parent"\cf0 :54\},\
+\{\cf2 "id"\cf0 :251,\cf2 "name"\cf0 :\cf2 "ANSWER TIMES"\cf0 ,\cf2 "parent"\cf0 :55\},\
+\{\cf2 "id"\cf0 :255,\cf2 "name"\cf0 :\cf2 "TOTAL_DATA_TRAFFIC"\cf0 ,\cf2 "parent"\cf0 :105\},\
+\{\cf2 "id"\cf0 :255,\cf2 "name"\cf0 :\cf2 "TOTAL_DATA_TRAFFIC"\cf0 ,\cf2 "parent"\cf0 :105\},\
+\{\cf2 "id"\cf0 :255,\cf2 "name"\cf0 :\cf2 "TOTAL_DATA_TRAFFIC"\cf0 ,\cf2 "parent"\cf0 :105\},\
+\{\cf2 "id"\cf0 :256,\cf2 "name"\cf0 :\cf2 "IM_TRAFFIC"\cf0 ,\cf2 "parent"\cf0 :106\},\
+\{\cf2 "id"\cf0 :256,\cf2 "name"\cf0 :\cf2 "IM_TRAFFIC"\cf0 ,\cf2 "parent"\cf0 :106\},\
+\{\cf2 "id"\cf0 :256,\cf2 "name"\cf0 :\cf2 "IM_TRAFFIC"\cf0 ,\cf2 "parent"\cf0 :106\},\
+\{\cf2 "id"\cf0 :257,\cf2 "name"\cf0 :\cf2 "TOTAL_MOU"\cf0 ,\cf2 "parent"\cf0 :107\},\
+\{\cf2 "id"\cf0 :257,\cf2 "name"\cf0 :\cf2 "TOTAL_MOU"\cf0 ,\cf2 "parent"\cf0 :107\},\
+\{\cf2 "id"\cf0 :257,\cf2 "name"\cf0 :\cf2 "TOTAL_MOU"\cf0 ,\cf2 "parent"\cf0 :107\},\
+\{\cf2 "id"\cf0 :258,\cf2 "name"\cf0 :\cf2 "MOU_FACEBOOK"\cf0 ,\cf2 "parent"\cf0 :108\},\
+\{\cf2 "id"\cf0 :258,\cf2 "name"\cf0 :\cf2 "MOU_FACEBOOK"\cf0 ,\cf2 "parent"\cf0 :108\},\
+\{\cf2 "id"\cf0 :258,\cf2 "name"\cf0 :\cf2 "MOU_FACEBOOK"\cf0 ,\cf2 "parent"\cf0 :108\},\
+\{\cf2 "id"\cf0 :259,\cf2 "name"\cf0 :\cf2 "MOU_WHATSAPP"\cf0 ,\cf2 "parent"\cf0 :109\},\
+\{\cf2 "id"\cf0 :259,\cf2 "name"\cf0 :\cf2 "MOU_WHATSAPP"\cf0 ,\cf2 "parent"\cf0 :109\},\
+\{\cf2 "id"\cf0 :259,\cf2 "name"\cf0 :\cf2 "MOU_WHATSAPP"\cf0 ,\cf2 "parent"\cf0 :109\},\
+\{\cf2 "id"\cf0 :260,\cf2 "name"\cf0 :\cf2 "MOU_IMO"\cf0 ,\cf2 "parent"\cf0 :110\},\
+\{\cf2 "id"\cf0 :260,\cf2 "name"\cf0 :\cf2 "MOU_IMO"\cf0 ,\cf2 "parent"\cf0 :110\},\
+\{\cf2 "id"\cf0 :260,\cf2 "name"\cf0 :\cf2 "MOU_IMO"\cf0 ,\cf2 "parent"\cf0 :110\},\
+\{\cf2 "id"\cf0 :261,\cf2 "name"\cf0 :\cf2 "IM_UL_TRAFFIC"\cf0 ,\cf2 "parent"\cf0 :111\},\
+\{\cf2 "id"\cf0 :261,\cf2 "name"\cf0 :\cf2 "IM_UL_TRAFFIC"\cf0 ,\cf2 "parent"\cf0 :111\},\
+\{\cf2 "id"\cf0 :261,\cf2 "name"\cf0 :\cf2 "IM_UL_TRAFFIC"\cf0 ,\cf2 "parent"\cf0 :111\},\
+\{\cf2 "id"\cf0 :262,\cf2 "name"\cf0 :\cf2 "IM_DL_TRAFFIC"\cf0 ,\cf2 "parent"\cf0 :112\},\
+\{\cf2 "id"\cf0 :262,\cf2 "name"\cf0 :\cf2 "IM_DL_TRAFFIC"\cf0 ,\cf2 "parent"\cf0 :112\},\
+\{\cf2 "id"\cf0 :262,\cf2 "name"\cf0 :\cf2 "IM_DL_TRAFFIC"\cf0 ,\cf2 "parent"\cf0 :112\},\
+\{\cf2 "id"\cf0 :264,\cf2 "name"\cf0 :\cf2 "Activities through my ufone app Total Counts"\cf0 ,\cf2 "parent"\cf0 :45\},\
+\{\cf2 "id"\cf0 :265,\cf2 "name"\cf0 :\cf2 "Bundle Subscription via My Ufone App Total Counts"\cf0 ,\cf2 "parent"\cf0 :46\},\
+\{\cf2 "id"\cf0 :266,\cf2 "name"\cf0 :\cf2 "Change of ownership Total Counts"\cf0 ,\cf2 "parent"\cf0 :21\},\
+\{\cf2 "id"\cf0 :267,\cf2 "name"\cf0 :\cf2 "Nadra Activity Total Counts"\cf0 ,\cf2 "parent"\cf0 :22\},\
+\{\cf2 "id"\cf0 :268,\cf2 "name"\cf0 :\cf2 "New sale Total Counts"\cf0 ,\cf2 "parent"\cf0 :23\},\
+\{\cf2 "id"\cf0 :269,\cf2 "name"\cf0 :\cf2 "Post MNP  - BTS Total Count"\cf0 ,\cf2 "parent"\cf0 :43\},\
+\{\cf2 "id"\cf0 :270,\cf2 "name"\cf0 :\cf2 "Post MNP  - HLR Total Count"\cf0 ,\cf2 "parent"\cf0 :44\},\
+\{\cf2 "id"\cf0 :271,\cf2 "name"\cf0 :\cf2 "Post to Pre Migratation Total Count"\cf0 ,\cf2 "parent"\cf0 :24\},\
+\{\cf2 "id"\cf0 :272,\cf2 "name"\cf0 :\cf2 "Pre MNP Total Count"\cf0 ,\cf2 "parent"\cf0 :25\},\
+\{\cf2 "id"\cf0 :273,\cf2 "name"\cf0 :\cf2 "Pre to Post Migratation Total Count"\cf0 ,\cf2 "parent"\cf0 :26\},\
+\{\cf2 "id"\cf0 :274,\cf2 "name"\cf0 :\cf2 "Recharge via My Ufone App Total Counts"\cf0 ,\cf2 "parent"\cf0 :47\},\
+\{\cf2 "id"\cf0 :275,\cf2 "name"\cf0 :\cf2 "All Activities Total count"\cf0 ,\cf2 "parent"\cf0 :28\},\
+\{\cf2 "id"\cf0 :276,\cf2 "name"\cf0 :\cf2 "VAS Subscription My Ufone App Total Counts"\cf0 ,\cf2 "parent"\cf0 :48\},\
+\{\cf2 "id"\cf0 :277,\cf2 "name"\cf0 :\cf2 "CBS\'a0Ebill\'a0503 Total Count"\cf0 ,\cf2 "parent"\cf0 :33\},\
+\{\cf2 "id"\cf0 :279,\cf2 "name"\cf0 :\cf2 "CBS Ebill Total Count"\cf0 ,\cf2 "parent"\cf0 :32\},\
+\{\cf2 "id"\cf0 :280,\cf2 "name"\cf0 :\cf2 "SMS Bill Total Count"\cf0 ,\cf2 "parent"\cf0 :20\},\
+\{\cf2 "id"\cf0 :281,\cf2 "name"\cf0 :\cf2 "Encrypted SMS\'a0Total Count"\cf0 ,\cf2 "parent"\cf0 :34\},\
+\{\cf2 "id"\cf0 :282,\cf2 "name"\cf0 :\cf2 "Normal SMS Total Count"\cf0 ,\cf2 "parent"\cf0 :35\},\
+\{\cf2 "id"\cf0 :284,\cf2 "name"\cf0 :\cf2 "EVC Total Recharge Count"\cf0 ,\cf2 "parent"\cf0 :36\},\
+\{\cf2 "id"\cf0 :286,\cf2 "name"\cf0 :\cf2 "USSD\'a0Total\'a0Count"\cf0 ,\cf2 "parent"\cf0 :37\},\
+\{\cf2 "id"\cf0 :287,\cf2 "name"\cf0 :\cf2 "Inbound Back Total Count"\cf0 ,\cf2 "parent"\cf0 :39\},\
+\{\cf2 "id"\cf0 :288,\cf2 "name"\cf0 :\cf2 "Inbound Captured Total Count"\cf0 ,\cf2 "parent"\cf0 :40\},\
+\{\cf2 "id"\cf0 :289,\cf2 "name"\cf0 :\cf2 "Inbound Lost Total Count"\cf0 ,\cf2 "parent"\cf0 :41\},\
+\{\cf2 "id"\cf0 :290,\cf2 "name"\cf0 :\cf2 "Outbound Change Country Total Count"\cf0 ,\cf2 "parent"\cf0 :42\},\
+\{\cf2 "id"\cf0 :291,\cf2 "name"\cf0 :\cf2 "SMS Bucket Subscription Activation Total count"\cf0 ,\cf2 "parent"\cf0 :31\},\
+\{\cf2 "id"\cf0 :292,\cf2 "name"\cf0 :\cf2 "SMS Bucket Subscription Renewal Success Counts"\cf0 ,\cf2 "parent"\cf0 :52\},\
+\{\cf2 "id"\cf0 :293,\cf2 "name"\cf0 :\cf2 "Recharging through USSD\'a0Total Counts"\cf0 ,\cf2 "parent"\cf0 :38\},\
+\{\cf2 "id"\cf0 :295,\cf2 "name"\cf0 :\cf2 "Super Card - Recharge\'a0\'a0 User driven Total Count"\cf0 ,\cf2 "parent"\cf0 :51\},\
+\{\cf2 "id"\cf0 :296,\cf2 "name"\cf0 :\cf2 "Super Card - Recharge\'a0\'a0 User driven Success Count"\cf0 ,\cf2 "parent"\cf0 :51\},\
+\{\cf2 "id"\cf0 :298,\cf2 "name"\cf0 :\cf2 "Super Card - Recharge -\'a0 System driven Success Count"\cf0 ,\cf2 "parent"\cf0 :50\},\
+\{\cf2 "id"\cf0 :300,\cf2 "name"\cf0 :\cf2 "Super Card - Recharge -\'a0 System driven Total Count"\cf0 ,\cf2 "parent"\cf0 :50\},\
+\{\cf2 "id"\cf0 :301,\cf2 "name"\cf0 :\cf2 "IR Provisioning Success Count"\cf0 ,\cf2 "parent"\cf0 :30\},\
+\{\cf2 "id"\cf0 :303,\cf2 "name"\cf0 :\cf2 "IR Provisioning Total Count"\cf0 ,\cf2 "parent"\cf0 :30\},\
+\{\cf2 "id"\cf0 :304,\cf2 "name"\cf0 :\cf2 "SMS Delivered Success Count"\cf0 ,\cf2 "parent"\cf0 :138\},\
+\{\cf2 "id"\cf0 :305,\cf2 "name"\cf0 :\cf2 "CS - CSR Numerator Count"\cf0 ,\cf2 "parent"\cf0 :56\},\
+\{\cf2 "id"\cf0 :306,\cf2 "name"\cf0 :\cf2 "CS - CSR Denominator Count"\cf0 ,\cf2 "parent"\cf0 :56\},\
+\{\cf2 "id"\cf0 :307,\cf2 "name"\cf0 :\cf2 "CS - DCR Numerator Count"\cf0 ,\cf2 "parent"\cf0 :57\},\
+\{\cf2 "id"\cf0 :308,\cf2 "name"\cf0 :\cf2 "CS - DCR Denominator Count"\cf0 ,\cf2 "parent"\cf0 :57\} ]}
