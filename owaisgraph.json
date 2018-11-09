@@ -562,6 +562,1140 @@
         "id":121,
         "name":"Call Connected Ratio",
         "parent":69
-    }
+    },
+    {
+        "id":122,
+        "name":"3G Throughput(NWD)",
+        "parent":91
+    },
+    {
+        "id":122,
+        "name":"3G Throughput(NWD)",
+        "parent":91
+    },
+    {
+        "id":122,
+        "name":"3G Throughput(NWD)",
+        "parent":91
+    },
+    {
+        "id":123,
+        "name":"3G Throughput",
+        "parent":94
+    },
+    {
+        "id":123,
+        "name":"3G Throughput",
+        "parent":94
+    },
+    {
+        "id":123,
+        "name":"3G Throughput",
+        "parent":94
+    },
+    {
+        "id":124,
+        "name":"CS IRAT HSR",
+        "parent":95
+    },
+    {
+        "id":124,
+        "name":"CS IRAT HSR",
+        "parent":95
+    },
+    {
+        "id":124,
+        "name":"CS IRAT HSR",
+        "parent":95
+    },
+    {
+        "id":125,
+        "name":"CS TCH Blocking",
+        "parent":96
+    },
+    {
+        "id":125,
+        "name":"CS TCH Blocking",
+        "parent":96
+    },
+    {
+        "id":125,
+        "name":"CS TCH Blocking",
+        "parent":96
+    },
+    {
+        "id":126,
+        "name":"CSSR PS (3g)",
+        "parent":97
+    },
+    {
+        "id":126,
+        "name":"CSSR PS (3g)",
+        "parent":97
+    },
+    {
+        "id":126,
+        "name":"CSSR PS (3g)",
+        "parent":97
+    },
+    {
+        "id":127,
+        "name":"Data throughput per subscriber (Mbps)",
+        "parent":98
+    },
+    {
+        "id":127,
+        "name":"Data throughput per subscriber (Mbps)",
+        "parent":98
+    },
+    {
+        "id":127,
+        "name":"Data throughput per subscriber (Mbps)",
+        "parent":98
+    },
+    {
+        "id":128,
+        "name":"HSR",
+        "parent":101
+    },
+    {
+        "id":128,
+        "name":"HSR",
+        "parent":101
+    },
+    {
+        "id":128,
+        "name":"HSR",
+        "parent":101
+    },
+    {
+        "id":129,
+        "name":"SDCCH Blocking ( 2G Radio Blocking )",
+        "parent":102
+    },
+    {
+        "id":129,
+        "name":"SDCCH Blocking ( 2G Radio Blocking )",
+        "parent":102
+    },
+    {
+        "id":129,
+        "name":"SDCCH Blocking ( 2G Radio Blocking )",
+        "parent":102
+    },
+    {
+        "id":131,
+        "name":"CSSR CS (3g)",
+        "parent":104
+    },
+    {
+        "id":131,
+        "name":"CSSR CS (3g)",
+        "parent":104
+    },
+    {
+        "id":131,
+        "name":"CSSR CS (3g)",
+        "parent":104
+    },
+    {
+        "id":132,
+        "name":"Video_Streaming_Play_Delay_ms",
+        "parent":58
+    },
+    {
+        "id":132,
+        "name":"Video_Streaming_Play_Delay_ms",
+        "parent":58
+    },
+    {
+        "id":132,
+        "name":"Video_Streaming_Play_Delay_ms",
+        "parent":58
+    },
+    {
+        "id":133,
+        "name":"Video_Streaming_Stall_Frequency",
+        "parent":59
+    },
+    {
+        "id":133,
+        "name":"Video_Streaming_Stall_Frequency",
+        "parent":59
+    },
+    {
+        "id":133,
+        "name":"Video_Streaming_Stall_Frequency",
+        "parent":59
+    },
+    {
+        "id":134,
+        "name":"Video_Streaming_Throughput_kbps",
+        "parent":60
+    },
+    {
+        "id":134,
+        "name":"Video_Streaming_Throughput_kbps",
+        "parent":60
+    },
+    {
+        "id":134,
+        "name":"Video_Streaming_Throughput_kbps",
+        "parent":60
+    },
+    {
+        "id":135,
+        "name":"Web_Response_Delay_ms",
+        "parent":62
+    },
+    {
+        "id":135,
+        "name":"Web_Response_Delay_ms",
+        "parent":62
+    },
+    {
+        "id":135,
+        "name":"Web_Response_Delay_ms",
+        "parent":62
+    },
+    {
+        "id":136,
+        "name":"Web_Page_Download_Throughput_kbps",
+        "parent":64
+    },
+    {
+        "id":136,
+        "name":"Web_Page_Download_Throughput_kbps",
+        "parent":64
+    },
+    {
+        "id":136,
+        "name":"Web_Page_Download_Throughput_kbps",
+        "parent":64
+    },
+    {
+        "id":137,
+        "name":"CBS Relay Success Ratio",
+        "parent":11
+    },
+    {
+        "id":138,
+        "name":"SMS Delivered Success Ratio",
+        "parent":7
+    },
+    {
+        "id":140,
+        "name":"CBS Ebill 503 Success Count",
+        "parent":33
+    },
+    {
+        "id":141,
+        "name":"CALL CONNECTED TIMES",
+        "parent":54
+    },
+    {
+        "id":142,
+        "name":"SMS Bill Successful Count",
+        "parent":20
+    },
+    {
+        "id":144,
+        "name":"2G HLR Active ADM Active CARES Active  Count",
+        "parent":65
+    },
+    {
+        "id":144,
+        "name":"2G HLR Active ADM Active CARES Active  Count",
+        "parent":65
+    },
+    {
+        "id":144,
+        "name":"2G HLR Active ADM Active CARES Active  Count",
+        "parent":65
+    },
+    {
+        "id":145,
+        "name":"3G HLR Active ADM Active CARES Active  Count",
+        "parent":66
+    },
+    {
+        "id":145,
+        "name":"3G HLR Active ADM Active CARES Active  Count",
+        "parent":66
+    },
+    {
+        "id":145,
+        "name":"3G HLR Active ADM Active CARES Active  Count",
+        "parent":66
+    },
+    {
+        "id":146,
+        "name":"Change of ownership success Counts",
+        "parent":21
+    },
+    {
+        "id":148,
+        "name":"Nadra Activity Success Counts",
+        "parent":22
+    },
+    {
+        "id":150,
+        "name":"New sale success Counts",
+        "parent":23
+    },
+    {
+        "id":152,
+        "name":"Post to Pre Migratation Success Counts",
+        "parent":24
+    },
+    {
+        "id":154,
+        "name":"Pre MNP Success Count",
+        "parent":25
+    },
+    {
+        "id":156,
+        "name":"Pre to Post Migratation Success Counts",
+        "parent":26
+    },
+    {
+        "id":158,
+        "name":"Sim Replacement Success Counts",
+        "parent":27
+    },
+    {
+        "id":159,
+        "name":"Sim Replacement Total Counts",
+        "parent":27
+    },
+    {
+        "id":160,
+        "name":"All Activities Succes count",
+        "parent":28
+    },
+    {
+        "id":174,
+        "name":"SMS Delivered Total  Count",
+        "parent":138
+    },
+    {
+        "id":176,
+        "name":"SMS Bucket Subcription Activation success count",
+        "parent":31
+    },
+    {
+        "id":178,
+        "name":"CBS Received on Relay Count ",
+        "parent":137
+    },
+    {
+        "id":181,
+        "name":"CBS Ebill Successful Count",
+        "parent":32
+    },
+    {
+        "id":182,
+        "name":"Encrypted SMS Success Count",
+        "parent":34
+    },
+    {
+        "id":184,
+        "name":"Normal SMS Success Count",
+        "parent":35
+    },
+    {
+        "id":186,
+        "name":"USSD Success Count",
+        "parent":37
+    },
+    {
+        "id":187,
+        "name":"Network connection error Counts",
+        "parent":86
+    },
+    {
+        "id":187,
+        "name":"Network connection error Counts",
+        "parent":86
+    },
+    {
+        "id":187,
+        "name":"Network connection error Counts",
+        "parent":86
+    },
+    {
+        "id":188,
+        "name":"Route selection failure Counts",
+        "parent":87
+    },
+    {
+        "id":188,
+        "name":"Route selection failure Counts",
+        "parent":87
+    },
+    {
+        "id":188,
+        "name":"Route selection failure Counts",
+        "parent":87
+    },
+    {
+        "id":189,
+        "name":"Signal exceptions Counts",
+        "parent":88
+    },
+    {
+        "id":189,
+        "name":"Signal exceptions Counts",
+        "parent":88
+    },
+    {
+        "id":189,
+        "name":"Signal exceptions Counts",
+        "parent":88
+    },
+    {
+        "id":190,
+        "name":"System error Counts",
+        "parent":89
+    },
+    {
+        "id":190,
+        "name":"System error Counts",
+        "parent":89
+    },
+    {
+        "id":190,
+        "name":"System error Counts",
+        "parent":89
+    },
+    {
+        "id":191,
+        "name":"Recharging through USSD  Success Counts",
+        "parent":38
+    },
+    {
+        "id":195,
+        "name":"Inbound Back Success Count",
+        "parent":39
+    },
+    {
+        "id":197,
+        "name":"Inbound Captured Success Count",
+        "parent":40
+    },
+    {
+        "id":199,
+        "name":"Inbound Lost Success Count",
+        "parent":41
+    },
+    {
+        "id":201,
+        "name":"Outbound Change Country Success Count",
+        "parent":42
+    },
+    {
+        "id":202,
+        "name":"Post MNP  - BTS Sucesss Count",
+        "parent":43
+    },
+    {
+        "id":204,
+        "name":"Post MNP  - HLR Sucesss Count",
+        "parent":44
+    },
+    {
+        "id":206,
+        "name":"Activities through my ufone app Success Counts",
+        "parent":45
+    },
+    {
+        "id":208,
+        "name":"Bundle Subscription via My Ufone App Success Counts",
+        "parent":46
+    },
+    {
+        "id":210,
+        "name":"Recharge via My Ufone App Success Counts",
+        "parent":47
+    },
+    {
+        "id":212,
+        "name":"VAS Subscription My Ufone App Success Counts",
+        "parent":48
+    },
+    {
+        "id":214,
+        "name":"Super Card  - Recharge Success Counts",
+        "parent":49
+    },
+    {
+        "id":216,
+        "name":"Super Card  - Recharge Total Counts",
+        "parent":49
+    },
+    {
+        "id":217,
+        "name":"SMS Bucket Subscription Renewal Total Counts",
+        "parent":52
+    },
+    {
+        "id":219,
+        "name":"COUNT_WEB_PAGESUCFLAGLAT",
+        "parent":113
+    },
+    {
+        "id":219,
+        "name":"COUNT_WEB_PAGESUCFLAGLAT",
+        "parent":113
+    },
+    {
+        "id":219,
+        "name":"COUNT_WEB_PAGESUCFLAGLAT",
+        "parent":113
+    },
+    {
+        "id":220,
+        "name":"COUNT_WEB_PAGESUCFLAGSR",
+        "parent":114
+    },
+    {
+        "id":220,
+        "name":"COUNT_WEB_PAGESUCFLAGSR",
+        "parent":114
+    },
+    {
+        "id":220,
+        "name":"COUNT_WEB_PAGESUCFLAGSR",
+        "parent":114
+    },
+    {
+        "id":222,
+        "name":"Total Number of Successful Logs",
+        "parent":29
+    },
+    {
+        "id":225,
+        "name":"Call Barred Times (times)",
+        "parent":67
+    },
+    {
+        "id":225,
+        "name":"Call Barred Times (times)",
+        "parent":67
+    },
+    {
+        "id":225,
+        "name":"Call Barred Times (times)",
+        "parent":67
+    },
+    {
+        "id":226,
+        "name":"Call Completion Times (times)",
+        "parent":68
+    },
+    {
+        "id":226,
+        "name":"Call Completion Times (times)",
+        "parent":68
+    },
+    {
+        "id":226,
+        "name":"Call Completion Times (times)",
+        "parent":68
+    },
+    {
+        "id":227,
+        "name":"Callee Absent Times (times)",
+        "parent":70
+    },
+    {
+        "id":227,
+        "name":"Callee Absent Times (times)",
+        "parent":70
+    },
+    {
+        "id":227,
+        "name":"Callee Absent Times (times)",
+        "parent":70
+    },
+    {
+        "id":228,
+        "name":"Callee Busy Times (times)",
+        "parent":71
+    },
+    {
+        "id":228,
+        "name":"Callee Busy Times (times)",
+        "parent":71
+    },
+    {
+        "id":228,
+        "name":"Callee Busy Times (times)",
+        "parent":71
+    },
+    {
+        "id":229,
+        "name":"Callee Service Barred Times (times)",
+        "parent":72
+    },
+    {
+        "id":229,
+        "name":"Callee Service Barred Times (times)",
+        "parent":72
+    },
+    {
+        "id":229,
+        "name":"Callee Service Barred Times (times)",
+        "parent":72
+    },
+    {
+        "id":230,
+        "name":"Gb mode attach reject(GPRS service not allowed) (times)",
+        "parent":73
+    },
+    {
+        "id":230,
+        "name":"Gb mode attach reject(GPRS service not allowed) (times)",
+        "parent":73
+    },
+    {
+        "id":230,
+        "name":"Gb mode attach reject(GPRS service not allowed) (times)",
+        "parent":73
+    },
+    {
+        "id":231,
+        "name":"Gb mode GPRS attach accept times (times)",
+        "parent":75
+    },
+    {
+        "id":231,
+        "name":"Gb mode GPRS attach accept times (times)",
+        "parent":75
+    },
+    {
+        "id":231,
+        "name":"Gb mode GPRS attach accept times (times)",
+        "parent":75
+    },
+    {
+        "id":232,
+        "name":"Gb mode GPRS attach reject(GPRS not allowed in PLMN) (times)",
+        "parent":76
+    },
+    {
+        "id":232,
+        "name":"Gb mode GPRS attach reject(GPRS not allowed in PLMN) (times)",
+        "parent":76
+    },
+    {
+        "id":232,
+        "name":"Gb mode GPRS attach reject(GPRS not allowed in PLMN) (times)",
+        "parent":76
+    },
+    {
+        "id":233,
+        "name":"Gb mode GPRS attach request times (times)",
+        "parent":77
+    },
+    {
+        "id":233,
+        "name":"Gb mode GPRS attach request times (times)",
+        "parent":77
+    },
+    {
+        "id":233,
+        "name":"Gb mode GPRS attach request times (times)",
+        "parent":77
+    },
+    {
+        "id":234,
+        "name":"Iu mode attach reject(GPRS service not allowed) (times)",
+        "parent":78
+    },
+    {
+        "id":234,
+        "name":"Iu mode attach reject(GPRS service not allowed) (times)",
+        "parent":78
+    },
+    {
+        "id":234,
+        "name":"Iu mode attach reject(GPRS service not allowed) (times)",
+        "parent":78
+    },
+    {
+        "id":235,
+        "name":"Iu mode GPRS attach reject(no suitable cell in LA) (times)",
+        "parent":80
+    },
+    {
+        "id":235,
+        "name":"Iu mode GPRS attach reject(no suitable cell in LA) (times)",
+        "parent":80
+    },
+    {
+        "id":235,
+        "name":"Iu mode GPRS attach reject(no suitable cell in LA) (times)",
+        "parent":80
+    },
+    {
+        "id":236,
+        "name":"Iu mode GPRS attach reject(roaming not allowed in LA) (times)",
+        "parent":81
+    },
+    {
+        "id":236,
+        "name":"Iu mode GPRS attach reject(roaming not allowed in LA) (times)",
+        "parent":81
+    },
+    {
+        "id":236,
+        "name":"Iu mode GPRS attach reject(roaming not allowed in LA) (times)",
+        "parent":81
+    },
+    {
+        "id":237,
+        "name":"Iu mode GPRS attach request times (times)",
+        "parent":82
+    },
+    {
+        "id":237,
+        "name":"Iu mode GPRS attach request times (times)",
+        "parent":82
+    },
+    {
+        "id":237,
+        "name":"Iu mode GPRS attach request times (times)",
+        "parent":82
+    },
+    {
+        "id":238,
+        "name":"Iu mode GPRS attach success times (times)",
+        "parent":83
+    },
+    {
+        "id":238,
+        "name":"Iu mode GPRS attach success times (times)",
+        "parent":83
+    },
+    {
+        "id":238,
+        "name":"Iu mode GPRS attach success times (times)",
+        "parent":83
+    },
+    {
+        "id":239,
+        "name":"Releases Before Ringing (times)",
+        "parent":84
+    },
+    {
+        "id":239,
+        "name":"Releases Before Ringing (times)",
+        "parent":84
+    },
+    {
+        "id":239,
+        "name":"Releases Before Ringing (times)",
+        "parent":84
+    },
+    {
+        "id":240,
+        "name":"Wrong Dialing Times (times)",
+        "parent":85
+    },
+    {
+        "id":240,
+        "name":"Wrong Dialing Times (times)",
+        "parent":85
+    },
+    {
+        "id":240,
+        "name":"Wrong Dialing Times (times)",
+        "parent":85
+    },
+    {
+        "id":241,
+        "name":"CBS Sent from Relay",
+        "parent":137
+    },
+    {
+        "id":243,
+        "name":"EVC Successful Recharge Count",
+        "parent":36
+    },
+    {
+        "id":244,
+        "name":"2G Payload",
+        "parent":90
+    },
+    {
+        "id":244,
+        "name":"2G Payload",
+        "parent":90
+    },
+    {
+        "id":244,
+        "name":"2G Payload",
+        "parent":90
+    },
+    {
+        "id":245,
+        "name":"2G Voice Traffic  ( ERLang )",
+        "parent":92
+    },
+    {
+        "id":245,
+        "name":"2G Voice Traffic  ( ERLang )",
+        "parent":92
+    },
+    {
+        "id":245,
+        "name":"2G Voice Traffic  ( ERLang )",
+        "parent":92
+    },
+    {
+        "id":246,
+        "name":"3G Payload",
+        "parent":93
+    },
+    {
+        "id":246,
+        "name":"3G Payload",
+        "parent":93
+    },
+    {
+        "id":246,
+        "name":"3G Payload",
+        "parent":93
+    },
+    {
+        "id":249,
+        "name":"Total Number of Attempted Logs",
+        "parent":29
+    },
+    {
+        "id":250,
+        "name":"SEIZURE TIMES",
+        "parent":53
+    },
+    {
+        "id":250,
+        "name":"SEIZURE TIMES",
+        "parent":54
+    },
+    {
+        "id":251,
+        "name":"ANSWER TIMES",
+        "parent":55
+    },
+    {
+        "id":255,
+        "name":"TOTAL_DATA_TRAFFIC",
+        "parent":105
+    },
+    {
+        "id":255,
+        "name":"TOTAL_DATA_TRAFFIC",
+        "parent":105
+    },
+    {
+        "id":255,
+        "name":"TOTAL_DATA_TRAFFIC",
+        "parent":105
+    },
+    {
+        "id":256,
+        "name":"IM_TRAFFIC",
+        "parent":106
+    },
+    {
+        "id":256,
+        "name":"IM_TRAFFIC",
+        "parent":106
+    },
+    {
+        "id":256,
+        "name":"IM_TRAFFIC",
+        "parent":106
+    },
+    {
+        "id":257,
+        "name":"TOTAL_MOU",
+        "parent":107
+    },
+    {
+        "id":257,
+        "name":"TOTAL_MOU",
+        "parent":107
+    },
+    {
+        "id":257,
+        "name":"TOTAL_MOU",
+        "parent":107
+    },
+    {
+        "id":258,
+        "name":"MOU_FACEBOOK",
+        "parent":108
+    },
+    {
+        "id":258,
+        "name":"MOU_FACEBOOK",
+        "parent":108
+    },
+    {
+        "id":258,
+        "name":"MOU_FACEBOOK",
+        "parent":108
+    },
+    {
+        "id":259,
+        "name":"MOU_WHATSAPP",
+        "parent":109
+    },
+    {
+        "id":259,
+        "name":"MOU_WHATSAPP",
+        "parent":109
+    },
+    {
+        "id":259,
+        "name":"MOU_WHATSAPP",
+        "parent":109
+    },
+    {
+        "id":260,
+        "name":"MOU_IMO",
+        "parent":110
+    },
+    {
+        "id":260,
+        "name":"MOU_IMO",
+        "parent":110
+    },
+    {
+        "id":260,
+        "name":"MOU_IMO",
+        "parent":110
+    },
+    {
+        "id":261,
+        "name":"IM_UL_TRAFFIC",
+        "parent":111
+    },
+    {
+        "id":261,
+        "name":"IM_UL_TRAFFIC",
+        "parent":111
+    },
+    {
+        "id":261,
+        "name":"IM_UL_TRAFFIC",
+        "parent":111
+    },
+    {
+        "id":262,
+        "name":"IM_DL_TRAFFIC",
+        "parent":112
+    },
+    {
+        "id":262,
+        "name":"IM_DL_TRAFFIC",
+        "parent":112
+    },
+    {
+        "id":262,
+        "name":"IM_DL_TRAFFIC",
+        "parent":112
+    },
+    {
+        "id":264,
+        "name":"Activities through my ufone app Total Counts",
+        "parent":45
+    },
+    {
+        "id":265,
+        "name":"Bundle Subscription via My Ufone App Total Counts",
+        "parent":46
+    },
+    {
+        "id":266,
+        "name":"Change of ownership Total Counts",
+        "parent":21
+    },
+    {
+        "id":267,
+        "name":"Nadra Activity Total Counts",
+        "parent":22
+    },
+    {
+        "id":268,
+        "name":"New sale Total Counts",
+        "parent":23
+    },
+    {
+        "id":269,
+        "name":"Post MNP  - BTS Total Count",
+        "parent":43
+    },
+    {
+        "id":270,
+        "name":"Post MNP  - HLR Total Count",
+        "parent":44
+    },
+    {
+        "id":271,
+        "name":"Post to Pre Migratation Total Count",
+        "parent":24
+    },
+    {
+        "id":272,
+        "name":"Pre MNP Total Count",
+        "parent":25
+    },
+    {
+        "id":273,
+        "name":"Pre to Post Migratation Total Count",
+        "parent":26
+    },
+    {
+        "id":274,
+        "name":"Recharge via My Ufone App Total Counts",
+        "parent":47
+    },
+    {
+        "id":275,
+        "name":"All Activities Total count",
+        "parent":28
+    },
+    {
+        "id":276,
+        "name":"VAS Subscription My Ufone App Total Counts",
+        "parent":48
+    },
+    {
+        "id":277,
+        "name":"CBS Ebill 503 Total Count",
+        "parent":33
+    },
+    {
+        "id":279,
+        "name":"CBS Ebill Total Count",
+        "parent":32
+    },
+    {
+        "id":280,
+        "name":"SMS Bill Total Count",
+        "parent":20
+    },
+    {
+        "id":281,
+        "name":"Encrypted SMS Total Count",
+        "parent":34
+    },
+    {
+        "id":282,
+        "name":"Normal SMS Total Count",
+        "parent":35
+    },
+    {
+        "id":284,
+        "name":"EVC Total Recharge Count",
+        "parent":36
+    },
+    {
+        "id":286,
+        "name":"USSD Total Count",
+        "parent":37
+    },
+    {
+        "id":287,
+        "name":"Inbound Back Total Count",
+        "parent":39
+    },
+    {
+        "id":288,
+        "name":"Inbound Captured Total Count",
+        "parent":40
+    },
+    {
+        "id":289,
+        "name":"Inbound Lost Total Count",
+        "parent":41
+    },
+    {
+        "id":290,
+        "name":"Outbound Change Country Total Count",
+        "parent":42
+    },
+    {
+        "id":291,
+        "name":"SMS Bucket Subscription Activation Total count",
+        "parent":31
+    },
+    {
+        "id":292,
+        "name":"SMS Bucket Subscription Renewal Success Counts",
+        "parent":52
+    },
+    {
+        "id":293,
+        "name":"Recharging through USSD Total Counts",
+        "parent":38
+    },
+    {
+        "id":295,
+        "name":"Super Card - Recharge   User driven Total Count",
+        "parent":51
+    },
+    {
+        "id":296,
+        "name":"Super Card - Recharge   User driven Success Count",
+        "parent":51
+    },
+    {
+        "id":298,
+        "name":"Super Card - Recharge -  System driven Success Count",
+        "parent":50
+    },
+    {
+        "id":300,
+        "name":"Super Card - Recharge -  System driven Total Count",
+        "parent":50
+    },
+    {
+        "id":301,
+        "name":"IR Provisioning Success Count",
+        "parent":30
+    },
+    {
+        "id":303,
+        "name":"IR Provisioning Total Count",
+        "parent":30
+    },
+    {
+        "id":304,
+        "name":"SMS Delivered Success Count",
+        "parent":138
+    },
+    {
+        "id":305,
+        "name":"CS - CSR Numerator Count",
+        "parent":56
+    },
+    {
+        "id":306,
+        "name":"CS - CSR Denominator Count",
+        "parent":56
+    },
+    {
+        "id":307,
+        "name":"CS - DCR Numerator Count",
+        "parent":57
+    },
+    {
+        "id":308,
+        "name":"CS - DCR Denominator Count",
+        "parent":57}
     
 ]
