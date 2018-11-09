@@ -27,5 +27,115 @@
         "id":6,
         "name":"My Ufone APP Index",
         "parent":1
+    },
+    {
+        "id":7,
+        "name":"SMS Index",
+        "parent":2
+    },
+    {
+        "id":8,
+        "name":"Recharge Index",
+        "parent":2
+    },
+    {
+        "id":9,
+        "name":"Data Index",
+        "parent":2
+    },
+    {
+        "id":10,
+        "name":"HLR Index",
+        "parent":3
+    },
+    {
+        "id":11,
+        "name":"CBS Index",
+        "parent":3
+    },
+    {
+        "id":12,
+        "name":"Roam  Index",
+        "parent":3
+    },
+    {
+        "id":13,
+        "name":"product  Index",
+        "parent":3
+    },
+    {
+        "id":14,
+        "name":"Sale Index",
+        "parent":4
+    },
+    {
+        "id":15,
+        "name":"Nadra Index",
+        "parent":4
+    },
+    {
+        "id":16,
+        "name":"SIM Replacement/Ownership Change Index",
+        "parent":4
+    },
+    {
+        "id":17,
+        "name":"2G Index",
+        "parent":5
+    },
+    {
+        "id":18,
+        "name":"3G Index",
+        "parent":5
+    },
+    {
+        "id":19,
+        "name":"Core  Index",
+        "parent":5
+    },
+    {
+        "id":21,
+        "name":"Change of ownership success Ratio",
+        "parent":16
+    },
+    {
+        "id":22,
+        "name":"Nadra Activity Success Ratio",
+        "parent":15
+    },
+    {
+        "id":23,
+        "name":"New sale success Ratio",
+        "parent":14
+    },
+    {
+        "id":24,
+        "name":"Post to Pre Migratation Success Ratio",
+        "parent":14
+    },
+    {
+        "id":25,
+        "name":"Pre MNP Success Ratio",
+        "parent":14
+    },
+    {
+        "id":26,
+        "name":"Pre to Post Migratation Success Ratio",
+        "parent":14
+    },
+    {
+        "id":27,
+        "name":"Sim Replacement Success Ratio",
+        "parent":16
+    },
+    {
+        "id":28,
+        "name":"All Activities Success ratio",
+        "parent":14
+    },
+    {
+        "id":30,
+        "name":"IR Provisioning Success ratio",
+        "parent":12
     }
 ]
