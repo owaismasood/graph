@@ -137,5 +137,240 @@
         "id":30,
         "name":"IR Provisioning Success ratio",
         "parent":12
+    },
+      {
+        "id":31,
+        "name":"SMS Bucket Subscription Activation Ratio",
+        "parent":13
+    },
+    {
+        "id":34,
+        "name":"Encrypted SMS Success Ratio",
+        "parent":8
+    },
+    {
+        "id":35,
+        "name":"Normal SMS Success Ratio",
+        "parent":8
+    },
+    {
+        "id":36,
+        "name":"EVC Recharge Success Ratio ",
+        "parent":8
+    },
+    {
+        "id":37,
+        "name":"USSD Success Ratio",
+        "parent":8
+    },
+    {
+        "id":38,
+        "name":"Recharging through USSD  Success Ratio",
+        "parent":8
+    },
+    {
+        "id":39,
+        "name":"Inbound Back Success Ratio",
+        "parent":12
+    },
+    {
+        "id":40,
+        "name":"Inbound Captured Success Ratio",
+        "parent":12
+    },
+    {
+        "id":41,
+        "name":"Inbound Lost Success ratio",
+        "parent":12
+    },
+    {
+        "id":42,
+        "name":"Outbound Change Country Success Ratio",
+        "parent":12
+    },
+    {
+        "id":43,
+        "name":"Post MNP  - BTS Sucesss Ratio",
+        "parent":14
+    },
+    {
+        "id":44,
+        "name":"Post MNP  - HLR Sucesss Ratio",
+        "parent":14
+    },
+    {
+        "id":45,
+        "name":"Activities through my ufone app Success Ratio",
+        "parent":6
+    },
+    {
+        "id":46,
+        "name":"Bundle Subscription via My Ufone App Success Ratio",
+        "parent":6
+    },
+    {
+        "id":47,
+        "name":"Recharge via My Ufone App Success Ratio",
+        "parent":6
+    },
+    {
+        "id":48,
+        "name":"VAS Subscription My Ufone App Success Ratio",
+        "parent":6
+    },
+    {
+        "id":49,
+        "name":"Super Card  - Recharge Success Ratios",
+        "parent":8
+    },
+    {
+        "id":50,
+        "name":"Super Card - Recharge -  System driven Ratio",
+        "parent":8
+    },
+    {
+        "id":51,
+        "name":"Super Card - Recharge   User driven Ratio",
+        "parent":8
+    },
+    {
+        "id":52,
+        "name":"SMS Bucket Subscription Renewal Ratio",
+        "parent":13
+    },
+    {
+        "id":58,
+        "name":"Video_Streaming_Play_Delay_ms threshold",
+        "parent":9
+    },
+    {
+        "id":59,
+        "name":"Video_Streaming_Stall_Frequency threshold",
+        "parent":9
+    },
+    {
+        "id":60,
+        "name":"Video_Streaming_Throughput_kbps threshold",
+        "parent":9
+    },
+    {
+        "id":61,
+        "name":"Web_Response_Success_Rate threshold",
+        "parent":9
+    },
+    {
+        "id":62,
+        "name":"Web_Response_Delay_ms threshold",
+        "parent":9
+    },
+    {
+        "id":63,
+        "name":"Web_Browsing_Success_Rate threshold",
+        "parent":9
+    },
+    {
+        "id":64,
+        "name":"Web_Page_Download_Throughput_kbps threshold",
+        "parent":9
+    },
+    {
+        "id":65,
+        "name":"2G HLR Active ADM Active CARES Active  Count Threshold",
+        "parent":10
+    },
+    {
+        "id":66,
+        "name":"3G HLR Active ADM Active CARES Active  Count Threshold",
+        "parent":10
+    },
+    {
+        "id":67,
+        "name":"Call Barred Times (times) Threshold",
+        "parent":19
+    },
+    {
+        "id":68,
+        "name":"Call Completion Times (times) Threshold",
+        "parent":19
+    },
+    {
+        "id":69,
+        "name":"Call Connected Ratio Threshold",
+        "parent":19
+    },
+    {
+        "id":70,
+        "name":"Callee Absent Times (times) Threshold",
+        "parent":19
+    },
+    {
+        "id":71,
+        "name":"Callee Busy Times (times) Threshold",
+        "parent":19
+    },
+    {
+        "id":72,
+        "name":"Callee Service Barred Times (times) Threshold",
+        "parent":19
+    },
+    {
+        "id":73,
+        "name":"Gb mode attach reject(GPRS service not allowed) (times) Threshold",
+        "parent":19
+    },
+    {
+        "id":74,
+        "name":"Gb Mode Attach success Rate Threshold",
+        "parent":19
+    },
+    {
+        "id":75,
+        "name":"Gb mode GPRS attach accept times (times) Threshold",
+        "parent":19
+    },
+    {
+        "id":76,
+        "name":"Gb mode GPRS attach reject(GPRS not allowed in PLMN) (times) Threshold",
+        "parent":19
+    },
+    {
+        "id":77,
+        "name":"Gb mode GPRS attach request times (times) Threshold",
+        "parent":19
+    },
+    {
+        "id":78,
+        "name":"Iu mode attach reject(GPRS service not allowed) (times) Threshold",
+        "parent":19
+    },
+    {
+        "id":79,
+        "name":"Iu Mode Attach Success Rate Threshold",
+        "parent":19
+    },
+    {
+        "id":80,
+        "name":"Iu mode GPRS attach reject(no suitable cell in LA) (times) Threshold",
+        "parent":19
+    },
+    {
+        "id":81,
+        "name":"Iu mode GPRS attach reject(roaming not allowed in LA) (times) Threshold",
+        "parent":19
+    },
+    {
+        "id":82,
+        "name":"Iu mode GPRS attach request times (times) Threshold",
+        "parent":19
+    },
+    {
+        "id":83,
+        "name":"Iu mode GPRS attach success times (times) Threshold",
+        "parent":19
+    },
+    {
+        "id":84,
+        "name":"Releases Before Ringing (times) Threshold",
+        "parent":19
     }
 ]
