@@ -586,5 +586,11 @@
     {"id":265,"name":"Bundle Subscription via My Ufone App Total Counts","parent":46},
     {"id":274,"name":"Recharge via My Ufone App Total Counts","parent":47},
     {"id":276,"name":"VAS Subscription My Ufone App Total Counts","parent":48}
+    {"id":137,"name":"CBS Relay Success Ratio","parent":11},
+    {"id":178,"name":"CBS Received on Relay Count ","parent":137},
+    {"id":241,"name":"CBS Sent from Relay","parent":137},
+    {"id":138,"name":"SMS Delivered Success Ratio","parent":7},
+    {"id":174,"name":"SMS Delivered Total  Count","parent":138},
+    {"id":304,"name":"SMS Delivered Success Count","parent":138}
     
 ]
