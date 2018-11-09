@@ -372,5 +372,196 @@
         "id":84,
         "name":"Releases Before Ringing (times) Threshold",
         "parent":19
+    },
+    {
+        "id":85,
+        "name":"Wrong Dialing Times (times) Threshold",
+        "parent":19
+    },
+    {
+        "id":87,
+        "name":"Route selection failure Threshold",
+        "parent":19
+    },
+    {
+        "id":90,
+        "name":"2G Payload Threshold",
+        "parent":17
+    },
+    {
+        "id":91,
+        "name":"3G Throughput(NWD)  Threshold",
+        "parent":18
+    },
+    {
+        "id":92,
+        "name":"2G Voice Traffic Threshold",
+        "parent":17
+    },
+    {
+        "id":93,
+        "name":"3G Payload Threshold",
+        "parent":18
+    },
+    {
+        "id":94,
+        "name":"3G Throughput Threshold",
+        "parent":18
+    },
+    {
+        "id":95,
+        "name":"CS IRAT HSR Threshold",
+        "parent":18
+    },
+    {
+        "id":96,
+        "name":"CS TCH Blocking Threshold",
+        "parent":17
+    },
+    {
+        "id":97,
+        "name":"CSSR PS Threshold",
+        "parent":18
+    },
+    {
+        "id":98,
+        "name":"Data throughput per subscriber (Mbps) Threshold",
+        "parent":17
+    },
+    {
+        "id":99,
+        "name":"Drop Rate CS Threshold",
+        "parent":18
+    },
+    {
+        "id":100,
+        "name":"Drop Rate PS Threshold",
+        "parent":18
+    },
+    {
+        "id":101,
+        "name":"HSR Threshold",
+        "parent":17
+    },
+    {
+        "id":102,
+        "name":"SDCCH ( 2G Radio Blocking ) Blocking Threshold",
+        "parent":17
+    },
+    {
+        "id":103,
+        "name":"3G Voice Traffic Threshold",
+        "parent":18
+    },
+    {
+        "id":104,
+        "name":"CSSR CS Threshold",
+        "parent":18
+    },
+    {
+        "id":115,
+        "name":"Gb Mode Attach success Rate",
+        "parent":74
+    },
+    {
+        "id":115,
+        "name":"Gb Mode Attach success Rate",
+        "parent":74
+    },
+    {
+        "id":115,
+        "name":"Gb Mode Attach success Rate",
+        "parent":74
+    },
+    {
+        "id":116,
+        "name":"Iu Mode Attach Success Rate",
+        "parent":79
+    },
+    {
+        "id":116,
+        "name":"Iu Mode Attach Success Rate",
+        "parent":79
+    },
+    {
+        "id":116,
+        "name":"Iu Mode Attach Success Rate",
+        "parent":79
+    },
+    {
+        "id":117,
+        "name":"Drop Rate CS (3g)",
+        "parent":99
+    },
+    {
+        "id":117,
+        "name":"Drop Rate CS (3g)",
+        "parent":99
+    },
+    {
+        "id":117,
+        "name":"Drop Rate CS (3g)",
+        "parent":99
+    },
+    {
+        "id":118,
+        "name":"Drop Rate PS (3g)",
+        "parent":100
+    },
+    {
+        "id":118,
+        "name":"Drop Rate PS (3g)",
+        "parent":100
+    },
+    {
+        "id":118,
+        "name":"Drop Rate PS (3g)",
+        "parent":100
+    },
+    {
+        "id":119,
+        "name":"Web_Response_Success_Rate",
+        "parent":61
+    },
+    {
+        "id":119,
+        "name":"Web_Response_Success_Rate",
+        "parent":61
+    },
+    {
+        "id":119,
+        "name":"Web_Response_Success_Rate",
+        "parent":61
+    },
+    {
+        "id":120,
+        "name":"Web_Browsing_Success_Rate",
+        "parent":63
+    },
+    {
+        "id":120,
+        "name":"Web_Browsing_Success_Rate",
+        "parent":63
+    },
+    {
+        "id":120,
+        "name":"Web_Browsing_Success_Rate",
+        "parent":63
+    },
+    {
+        "id":121,
+        "name":"Call Connected Ratio",
+        "parent":69
+    },
+    {
+        "id":121,
+        "name":"Call Connected Ratio",
+        "parent":69
+    },
+    {
+        "id":121,
+        "name":"Call Connected Ratio",
+        "parent":69
     }
+    
 ]
