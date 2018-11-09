@@ -1662,40 +1662,6 @@
         "id":300,
         "name":"Super Card - Recharge -  System driven Total Count",
         "parent":50
-    },
-    {
-        "id":301,
-        "name":"IR Provisioning Success Count",
-        "parent":30
-    },
-    {
-        "id":303,
-        "name":"IR Provisioning Total Count",
-        "parent":30
-    },
-    {
-        "id":304,
-        "name":"SMS Delivered Success Count",
-        "parent":138
-    },
-    {
-        "id":305,
-        "name":"CS - CSR Numerator Count",
-        "parent":56
-    },
-    {
-        "id":306,
-        "name":"CS - CSR Denominator Count",
-        "parent":56
-    },
-    {
-        "id":307,
-        "name":"CS - DCR Numerator Count",
-        "parent":57
-    },
-    {
-        "id":308,
-        "name":"CS - DCR Denominator Count",
-        "parent":57}
+    }
     
 ]
