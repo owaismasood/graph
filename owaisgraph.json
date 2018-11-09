@@ -577,6 +577,14 @@
         "id":122,
         "name":"3G Throughput(NWD)",
         "parent":91
-    }
+    },
+    {"id":206,"name":"Activities through my ufone app Success Counts","parent":45},
+    {"id":208,"name":"Bundle Subscription via My Ufone App Success Counts","parent":46},
+    {"id":210,"name":"Recharge via My Ufone App Success Counts","parent":47},
+    {"id":212,"name":"VAS Subscription My Ufone App Success Counts","parent":48},
+    {"id":264,"name":"Activities through my ufone app Total Counts","parent":45},
+    {"id":265,"name":"Bundle Subscription via My Ufone App Total Counts","parent":46},
+    {"id":274,"name":"Recharge via My Ufone App Total Counts","parent":47},
+    {"id":276,"name":"VAS Subscription My Ufone App Total Counts","parent":48}
     
 ]
